@@ -1,0 +1,703 @@
+,Unnamed: 0,Unnamed: 0.1,Hotel_name,Price_before_Discount,Price_after_Discount,Tax_and_Charges,Type_of_Room,Type_of_Beds,Rating,Review,No_of_Reviews,Rooms_left,Cancellation
+0,0,0,FabHotel Phoenix,4650,2279, 273 ,Deluxe Room,1 large double bed,7.3,Good ,70,Only 6 rooms left ,Free cancellation
+1,1,1,Novotel Bengaluru Outer Ring Road,0,8075, 1454 ,"Deluxe King or Twin Room with 20% Discount on Food, Soft Beverages, Spa", 1 double or 2 singles,7.6,Good ,459,Only 7 rooms left ,FREE cancellation • No prepayment needed
+2,2,2,Townhouse OAK M & M Hospitality,1112,556, 30 ,Classic Triple Room,1 extra-large double bed,5.3,Plesant ,9,No Rooms left,FREE cancellation • No prepayment needed
+3,3,3,Benaka Suites,0,2999, 360 ,One BHK with Kitchen,"2 beds (1 extra-large double, 1 bunk bed)",8.1,Very good ,68,Only 2 rooms left ,FREE cancellation • No prepayment needed
+4,4,4,Vistar Resort & Hotels,0,2549, 306 ,Standard Double Room with Fan,1 extra-large double bed,8.4,Very good ,28,Only 5 rooms left ,FREE cancellation • No prepayment needed
+5,5,5,Hyatt Centric MG Road Bangalore,0,8000, 1440 ,King Room,1 extra-large double bed,8.2,Very good ,1018,No Rooms left,FREE cancellation • No prepayment needed
+6,6,6,Goldfinch Hotel Bangalore,0,3749, 450 ,Superior Room,"3 beds (2 singles, 1 extra-large double)",7.4,Good ,214,Only 1 room left ,FREE cancellation • No prepayment needed
+7,7,7,Grand Mercure Bengaluru at Gopalan Mall - An Accor Brand,0,7650, 1377 ,Deluxe Double or Twin Room, 1 double or 2 singles,8.7,Fabulous ,505,Only 7 rooms left ,FREE cancellation • No prepayment needed
+8,8,8,OYO 385 TownHouse Navya International Ramamurthy Nagar,1952,976, 30 ,Standard Double Room,1 extra-large double bed,6.4,Plesant ,31,No Rooms left,Free cancellation
+9,9,9,Hotel Coffee Bean,0,5130, 616 ,[Sanitised]Superior Double Room,1 double bed,8.4,Very good ,7,No Rooms left,FREE cancellation • No prepayment needed
+10,10,10,Radisson Bengaluru City Center,0,7199, 1008 ,Superior Room with City View, 1 double or 2 singles,8.4,Very good ,1063,Only 3 rooms left ,FREE cancellation • No prepayment needed
+11,11,11,"Holiday Inn Express Bengaluru Yeshwantpur, an IHG Hotel",0,4299, 516 ,Superior Queen Room - Non-Smoking,1 double bed,7.0,Good ,627,No Rooms left,FREE cancellation • No prepayment needed
+12,12,12,Taj MG Road Bengaluru,0,9000, 1620 ,Deluxe Room City View  King Bed,1 extra-large double bed,8.8,Fabulous ,764,No Rooms left,Free cancellation
+13,13,13,Olive Indiranagar - By Embassy Group,4071,2850, 342 ,Standard Double Room,1 large double bed,6.8,Plesant ,311,Only 1 room left ,FREE cancellation • No prepayment needed
+14,14,14,"Holiday Inn Express Bengaluru Whitefield ITPL, an IHG Hotel",0,3699, 444 ,Superior Double or Twin Room with 15% discount on Food and Beverage, 1 double or 2 singles,7.1,Good ,342,No Rooms left,FREE cancellation • No prepayment needed
+15,15,15,OYO 11688 Petuni Boutique Hotel,1384,900, 30 ,Standard Double Room,1 large double bed,4.6,Plesant ,12,Only 1 room left ,Free cancellation
+16,16,16,OYO 79571 Hotel Golden Paradise,1600,800, 30 ,Deluxe Double Room,1 large double bed,8.5,Very good ,2,No Rooms left,FREE cancellation • No prepayment needed
+17,17,17,Taj West End,0,9750, 1755 ,Standard Double Room,1 extra-large double bed,8.3,Very good ,427,Only 7 rooms left ,
+18,18,18,Shangri-La Bengaluru,0,12000, 2160 ,Deluxe King Room,1 extra-large double bed,8.8,Fabulous ,928,No Rooms left,FREE cancellation • No prepayment needed
+19,19,19,The Oberoi Bengaluru,0,10500, 1890 ,Deluxe Double or Twin Room,1 large double bed,9.4,Superb ,1495,No Rooms left,Free cancellation
+20,20,20,"Welcomhotel by ITC Hotels, Richmond Road, Bengaluru",0,8800, 1584 ,Superior Twin Room,2 single beds,8.3,Very good ,1888,Only 1 room left ,
+21,21,21,Sanctum Suites Domlur Bangalore,0,2800, 336 ,Deluxe Queen Room,1 double bed,7.4,Good ,90,Only 2 rooms left ,FREE cancellation • No prepayment needed
+22,22,22,OYO 62331 GN Collection O,2006,1003, 150 ,Standard Double Room,1 large double bed,6.9,Plesant ,19,No Rooms left,Free cancellation
+23,23,23,KSTDC KumaraKrupa Hotel,0,2000, 240 ,Deluxe Room (2 Adults + 1 Child),1 extra-large double bed,8.4,Very good ,230,No Rooms left,FREE cancellation • No prepayment needed
+24,24,24,The Chancery Hotel,0,4599, 552 ,Deluxe Double or Twin Room, 1 double or 2 singles,6.8,Plesant ,201,No Rooms left,
+25,25,25,The Chancery Hotel,0,4599, 552 ,Deluxe Double or Twin Room, 1 double or 2 singles,6.8,Plesant ,201,No Rooms left,
+26,26,26,Hotel Ramanashree Richmond,0,3200, 384 ,Club Room,1 double bed,6.9,Plesant ,174,Only 5 rooms left ,FREE cancellation • No prepayment needed
+27,27,27,"The Elanza Hotel, Bangalore",0,4498, 540 ,Deluxe Double or Twin Room,Multiple bed types,7.3,Good ,277,Only 6 rooms left ,FREE cancellation • No prepayment needed
+28,28,28,"The Royale Senate, Hebbal, Bengaluru",0,3600, 432 ,Deluxe Double or Twin Room, 1 double or 2 singles,7.7,Good ,41,No Rooms left,FREE cancellation • No prepayment needed
+29,29,29,Aloft Bengaluru Cessna Business Park,0,8500, 1530 ,"Aloft Room, Guest room, 1 King, City view with 24 Hrs Check-in & Check-out",1 extra-large double bed,8.7,Fabulous ,198,Only 3 rooms left ,FREE cancellation • No prepayment needed
+30,30,30,Nexstay Rainbow Business Hotel,0,1499, 180 ,Standard Double Room,1 single bed,6.9,Plesant ,111,Only 2 rooms left ,FREE cancellation • No prepayment needed
+31,31,31,"Holiday Inn Bengaluru Racecourse, an IHG Hotel",0,7499, 900 ,Superior Queen Room - Non-Smoking,1 double bed,7.3,Good ,724,No Rooms left,FREE cancellation • No prepayment needed
+32,32,32,Sarovar Portico Outer Ring Road,5249,4724, 567 ,Deluxe Double Room,1 double bed,7.6,Good ,191,Only 1 room left ,
+33,33,33,Fairfield by Marriott Bengaluru Rajajinagar,0,5799, 696 ,Fairfield Deluxe Room ,1 extra-large double bed,7.3,Good ,421,Only 4 rooms left ,FREE cancellation • No prepayment needed
+34,34,34,Sanctum Suites Indiranagar Bangalore,0,2800, 336 ,Deluxe Queen Room,1 double bed,8.0,Very good ,25,Only 4 rooms left ,FREE cancellation • No prepayment needed
+35,35,35,Hotel Grand Suites,0,1100, 132 ,Standard Double Room,1 large double bed,6.7,Plesant ,304,Only 1 room left ,Free cancellation
+36,36,36,"Liwa - The Transit Hotel, Bengaluru",0,3215, 386 ,King Room,1 extra-large double bed,7.5,Good ,121,Only 7 rooms left ,FREE cancellation • No prepayment needed
+37,37,37,Casa Cottage,5000,3750, 450 ,Deluxe Room, 1 double or 2 singles,8.3,Very good ,178,Only 1 room left ,
+38,38,38,Daffodil Delight,0,2049, 246 ,Standard Double or Twin Room, 1 double or 2 singles,7.2,Good ,130,Only 2 rooms left ,Free cancellation
+39,39,39,Melange Astris,0,6000, 720 ,Luxury Suite,Entire studio • 1 bathroom • 1 kitchen • 55m²1 large double bed,7.8,Good ,331,Only 1 left ,
+40,40,40,Hotel Bangalore Gate,0,2450, 294 ,Executive Double or Twin Room, 1 double or 2 singles,8.0,Very good ,79,Only 3 rooms left ,Free cancellation
+41,41,41,"Holiday Inn Express & Suites Bengaluru Old Madras Road, an IHG Hotel",0,4749, 570 ,Standard Room with Free Buffet Breakfast & 10% Disc on F&B,2 single beds,8.3,Very good ,471,No Rooms left,Free cancellation
+42,42,42,De Venetian by TGI,0,3599, 432 ,Superior Double Room,1 large double bed,7.8,Good ,22,Only 7 rooms left ,
+43,43,43,OYO 81833 Hotel Red Rose,1683,1094, 176 ,Classic Triple Room,2 extra-large double beds,6.2,Plesant ,55,No Rooms left,FREE cancellation • No prepayment needed
+44,44,44,OYO Townhouse 76427 Hotel Skyline,810,510, 60 ,Deluxe Double Room,1 extra-large double bed,0.0,No Review,0,No Rooms left,Free cancellation
+45,45,45,Aloft Bengaluru Whitefield,0,5525, 663 ,"Aloft Room, 2 Queen, City view",1 large double bed,8.0,Very good ,154,No Rooms left,FREE cancellation • No prepayment needed
+46,46,46,Hotel RR International,0,1440, 173 ,Deluxe Double Room (Non-A/C), 1 double or 2 singles,6.8,Plesant ,381,No Rooms left,Free cancellation
+47,47,47,Capital O 46423 Clove Boutique Hotel Rajaji Nagar,3466,1733, 238 ,Deluxe Double Room,1 extra-large double bed,6.1,Plesant ,10,No Rooms left,Free cancellation
+48,48,48,FabHotel Rotano Suites Yelahanka,3021,1631, 196 ,Deluxe Room,1 double bed,7.7,Good ,171,No Rooms left,Free cancellation
+49,49,49,Sanctum Suites BEL Road Bangalore,0,2900, 348 ,Standard King Room,1 extra-large double bed,7.2,Good ,71,Only 5 rooms left ,FREE cancellation • No prepayment needed
+50,50,50,The Curzon Court,0,2200, 330 ,Standard Double or Twin Room,Multiple bed types,7.0,Good ,34,No Rooms left,
+51,51,51,MySpace Forest Keys,2970,2228, 267 ,Standard Double Room,1 large double bed,6.9,Plesant ,55,No Rooms left,Free cancellation
+52,52,52,FabHotel Crown Suites,3648,1970, 236 ,Deluxe Room,1 large double bed,8.1,Very good ,170,Only 1 room left ,Free cancellation
+53,53,53,FabHotel Phoenix Resorts,3750,2025, 243 ,Deluxe Room,1 large double bed,6.0,Plesant ,40,Only 5 rooms left ,Free cancellation
+54,54,54,FabHotel Astra Electronic City,2916,1575, 189 ,(Sanitised) Superior Double Room,1 double bed,7.3,Good ,234,Only 2 rooms left ,Free cancellation
+55,55,55,Conrad Bengaluru,0,11000, 1980 ,Deluxe King Room - Lake View,1 extra-large double bed,8.4,Very good ,1081,No Rooms left,FREE cancellation • No prepayment needed
+56,56,56,FabHotel Prime Ivory Pearl II,3958,2137, 256 ,Superior Double Room,1 extra-large double bed,7.4,Good ,142,No Rooms left,Free cancellation
+57,57,57,Iris Suites,3500,2625, 315 ,Twin Room,1 double bed,8.1,Very good ,19,No Rooms left,Free cancellation
+58,58,58,The Porch Inn Hotel/Service Apartments,0,2063, 247 ,Standard Double Room,1 large double bed,8.3,Very good ,218,Only 2 rooms left ,
+59,59,59,Radisson Blu Atria Bengaluru,0,8400, 1512 ,Superior Room, 1 double or 2 singles,8.2,Very good ,1186,No Rooms left,FREE cancellation • No prepayment needed
+60,60,60,Zion - A Luxurious Hotel,4000,3800, 456 ,Double or Twin Room,1 extra-large double bed,7.2,Good ,93,No Rooms left,FREE cancellation • No prepayment needed
+61,61,61,Fairfield by Marriott Bengaluru Outer Ring Road,0,7500, 900 ,Deluxe Queen or Twin Room with City View & Flexible check-in/check-out,1 large double bed,8.6,Fabulous ,204,No Rooms left,FREE cancellation • No prepayment needed
+62,62,62,Monarch Brigade Road,0,3800, 456 ,Standard Double or Twin Room,Multiple bed types,7.3,Good ,641,Only 2 rooms left ,FREE cancellation • No prepayment needed
+63,63,63,B R Inn,0,899,Includes ,AC Deluxe ,1 double bed,8.2,Very good ,61,Only 5 rooms left ,Free cancellation
+64,64,64,JP Cordial Hotel,0,2450, 358 ,Deluxe Double or Twin Room,1 extra-large double bed,6.8,Plesant ,32,No Rooms left,FREE cancellation • No prepayment needed
+65,65,65,Hotel Royal Orchid Bangalore,7921,7525, 1354 ,Deluxe Twin Room,2 single beds,7.2,Good ,766,No Rooms left,FREE cancellation • No prepayment needed
+66,66,66,ibis Bengaluru Hosur Road - An Accor Brand,0,4505, 541 ,Standard Queen Room,1 large double bed,7.7,Good ,673,No Rooms left,FREE cancellation • No prepayment needed
+67,67,67,Radisson Blu Bengaluru Outer Ring Road,0,8400, 1512 ,Superior Room, 1 double or 2 singles,7.9,Good ,719,No Rooms left,FREE cancellation • No prepayment needed
+68,68,68,Komfort Terraces Bangalore,0,1607, 193 ,Deluxe Double Room with 24 Hours Check-In & Check Out,1 double bed,5.9,Plesant ,221,Only 3 rooms left ,
+69,69,69,Hotel Garden Residency By WB Inn,0,1530, 184 ,Budget Double Room,1 large double bed,0.0,No Review,0,Only 4 rooms left ,
+70,70,70,JW Marriott Hotel Bengaluru,0,13350, 2403 ,Deluxe Room 2 Twin,1 extra-large double bed,8.1,Very good ,226,Only 5 rooms left ,FREE cancellation • No prepayment needed
+71,71,71,Hilton Bangalore Embassy GolfLinks,0,9500, 1710 ,"King Hilton Guestroom with Sofa cum Bed, Bathtub, 15% disc on F&B andSpa",1 extra-large double bed,8.5,Very good ,508,No Rooms left,FREE cancellation • No prepayment needed
+72,72,72,OYO 10475 PMR Hotel,1380,869, 30 ,Classic Triple Room,1 extra-large double bed,5.4,Plesant ,89,No Rooms left,Free cancellation
+73,73,73,FabHotel Grand View,3854,2081, 250 ,Deluxe Room,1 large double bed,7.0,Good ,41,No Rooms left,Free cancellation
+74,74,74,Novotel Bengaluru Outer Ring Road,0,8075, 1454 ,"Deluxe King or Twin Room with 20% Discount on Food, Soft Beverages, Spa", 1 double or 2 singles,7.6,Good ,459,Only 7 rooms left ,FREE cancellation • No prepayment needed
+75,75,75,Radisson Blu Bengaluru Outer Ring Road,0,8400, 1512 ,Superior Room, 1 double or 2 singles,7.9,Good ,719,No Rooms left,FREE cancellation • No prepayment needed
+76,76,76,Komfort Terraces Bangalore,0,1607, 193 ,Deluxe Double Room with 24 Hours Check-In & Check Out,1 double bed,5.9,Plesant ,221,Only 3 rooms left ,
+77,77,77,Hotel Garden Residency By WB Inn,0,1530, 184 ,Budget Double Room,1 large double bed,0.0,No Review,0,Only 4 rooms left ,
+78,78,78,JW Marriott Hotel Bengaluru,0,13350, 2403 ,Deluxe Room 2 Twin,1 extra-large double bed,8.1,Very good ,226,Only 5 rooms left ,FREE cancellation • No prepayment needed
+79,79,79,Hotel Arafa Inn,0,1800, 216 ,Deluxe Room,1 large double bed,7.6,Good ,246,No Rooms left,FREE cancellation • No prepayment needed
+80,80,80,Hilton Bangalore Embassy GolfLinks,0,9500, 1710 ,"King Hilton Guestroom with Sofa cum Bed, Bathtub, 15% disc on F&B andSpa",1 extra-large double bed,8.5,Very good ,508,No Rooms left,FREE cancellation • No prepayment needed
+81,81,81,OYO 10475 PMR Hotel,1380,869, 30 ,Classic Triple Room,1 extra-large double bed,5.4,Plesant ,89,No Rooms left,Free cancellation
+82,82,82,FabHotel Grand View,3854,2081, 250 ,Deluxe Room,1 large double bed,7.0,Good ,41,No Rooms left,Free cancellation
+83,83,83,Four Seasons Hotel Bengaluru at Embassy ONE,0,13175, 2372 ,Superior King Room,1 extra-large double bed,9.4,Superb ,601,No Rooms left,FREE cancellation • No prepayment needed
+84,84,84,Caramel Hotels,3717,2602, 312 ,Deluxe Double Room,1 extra-large double bed,7.2,Good ,118,Only 1 room left ,Free cancellation
+85,85,85,Fairfield by Marriott Bengaluru Whitefield,0,8199, 984 ,"Fairfield Premier Room, Guest Room, with Double Bed & Flexible check-in/check-out",1 double bed,8.1,Very good ,251,Only 3 rooms left ,FREE cancellation • No prepayment needed
+86,86,86,Ramada Encore Domlur Bangalore,0,6300, 756 ,Deluxe Twin Room,2 single beds,8.1,Very good ,322,Only 4 rooms left ,FREE cancellation • No prepayment needed
+87,87,87,Grand Mercure Bangalore - An Accor Brand,0,9500, 1710 ,Studio Suite with Kitchenette with 20% discount on Food and Soft Beverages and 20% on SPA,Private studio • 1 bathroom • 40m²1 large double bed,8.2,Very good ,383,Only 7 left ,FREE cancellation • No prepayment needed
+88,88,88,Treebo Trend Trinitywood,4159,2080, 250 ,Standard Double Room,1 extra-large double bed,7.5,Good ,13,Only 2 rooms left ,Free cancellation
+89,89,89,bloomrooms @ City Centre,0,3400, 408 ,Standard Double Room,1 large double bed,8.4,Very good ,331,No Rooms left,FREE cancellation • No prepayment needed
+90,90,90,Olivia Inn And Suites,0,1500, 180 ,Deluxe Double Room,1 large double bed,7.2,Good ,160,Only 3 rooms left ,FREE cancellation • No prepayment needed
+91,91,91,Treebo Trend Blu Orchid Indiranagar,5536,2768, 332 ,[Sanitized] Standard Double or Twin Room,Multiple bed types,8.0,Very good ,527,Only 1 room left ,Free cancellation
+92,92,92,Courtyard by Marriott Bengaluru Hebbal,0,11200, 2016 ,Deluxe Twin Room,2 single beds,8.5,Very good ,377,Only 5 rooms left ,FREE cancellation • No prepayment needed
+93,93,93,Olive Magrath - By Embassy Group,4201,2941, 353 ,Studio,Private studio • 1 bathroom • 28m²1 large double bed,7.4,Good ,169,Only 1 left ,
+94,94,94,Misty Meridian Serviced Apartments,0,4275, 513 ,Two-Bedroom Apartment,"Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 93m²3 beds (1 sofa bed, 2 large doubles)",8.5,Very good ,158,Only 7 left ,FREE cancellation • No prepayment needed
+95,95,95,OYO 63230 Exotica Hotels,1232,788, 30 ,Classic Triple Room,1 extra-large double bed,5.7,Plesant ,14,No Rooms left,Free cancellation
+96,96,96,FabHotel The Leela Park,4375,2363, 283 ,Deluxe Room,1 large double bed,8.1,Very good ,33,Only 2 rooms left ,Free cancellation
+97,97,97,Capital O 86761 Felix Inn,1512,968, 30 ,Standard Double Room,1 large double bed,8.0,Very good ,1,No Rooms left,FREE cancellation • No prepayment needed
+98,98,98,Coraltree By Goldfinch Hotels Bangalore,0,1999, 240 ,Superior Twin Room,1 single bed,6.1,Plesant ,160,Only 7 rooms left ,
+99,99,99,"The Ritz - Carlton, Bangalore",0,14300, 2574 ,Deluxe Room,1 extra-large double bed,9.3,Superb ,254,Only 5 rooms left ,FREE cancellation • No prepayment needed
+100,100,100,FabExpress Ivory Pearl III,2291,1237, 178 ,Deluxe Room,1 large double bed,6.3,Plesant ,34,No Rooms left,Free cancellation
+101,101,101,Eiffel Suites - Kammanahalli,3235,2750, 330 ,One-Bedroom Apartment,"Entire apartment • 1 bedroom • 1 living room • 1 kitchen • 42m²2 beds (1 extra-large double, 1 sofa bed)",8.4,Very good ,51,Only 1 left ,
+102,102,102,Capital O 37517 Withinn Hotel,2182,1091, 176 ,Standard Double Room,1 large double bed,7.3,Good ,24,Only 6 rooms left ,
+103,103,103,Sheraton Grand Bengaluru Whitefield Hotel & Convention Center,0,11250, 2025 ,Deluxe Room Twin Bed with City View,2 single beds,8.9,Fabulous ,165,Only 5 rooms left ,FREE cancellation • No prepayment needed
+104,104,104,Octave Jamayca Hotel,0,1625, 195 ,Deluxe Double Room,1 large double bed,8.0,Very good ,185,No Rooms left,FREE cancellation • No prepayment needed
+105,105,105,Hotel Ballal Residency,5000,4100, 492 ,Deluxe Double or Twin Room,2 single beds,6.6,Plesant ,26,No Rooms left,FREE cancellation • No prepayment needed
+106,106,106,"Southern Star,Bangalore",0,4700, 564 ,Standard Room,1 extra-large double bed,7.7,Good ,330,Only 7 rooms left ,FREE cancellation • No prepayment needed
+107,107,107,Four Points by Sheraton Bengaluru Whitefield,0,7700, 924 ,Superior room - Twin bed,2 single beds,8.0,Very good ,97,Only 2 rooms left ,FREE cancellation • No prepayment needed
+108,108,108,Sheraton Grand Bangalore Hotel at Brigade Gateway,0,12950, 2331 ,"Premier Deluxe, Guest room, 2 Queen, City view",2 single beds,8.8,Fabulous ,496,Only 5 rooms left ,FREE cancellation • No prepayment needed
+109,109,109,Octave Plaza Hotel,0,1225, 147 ,Deluxe Double Room,1 large double bed,8.0,Very good ,134,No Rooms left,FREE cancellation • No prepayment needed
+110,110,110,The Continentti Whitefield,4249,3399, 408 ,Standard King Room,1 extra-large double bed,8.2,Very good ,75,Only 2 rooms left ,FREE cancellation • No prepayment needed
+111,111,111,Capital O 67657 GN Suites,1016,651, 45 ,Standard Double Room,2 large double beds,4.5,Plesant ,11,No Rooms left,Free cancellation
+112,112,112,Malgudi Farms,0,3500, 420 ,Deluxe Double Room (2 Adults + 1 Child),1 extra-large double bed,8.4,Very good ,174,Only 1 room left ,
+113,113,113,"Vivanta Bengaluru, Whitefield",0,9750, 1755 ,Superior Room City View Queen Bed,1 large double bed,8.2,Very good ,391,No Rooms left,FREE cancellation • No prepayment needed
+114,114,114,FabHotel Corporate Crown Koramangala - Fully Vaccinated Staff,4166,2250, 270 ,Superior Double Room,1 double bed,8.6,Fabulous ,289,Only 1 room left ,Free cancellation
+115,115,115,"La Marvella, Bengaluru",0,9499, 1710 ,Executive Room,Multiple bed types,8.3,Very good ,170,No Rooms left,FREE cancellation • No prepayment needed
+116,116,116,Vividus,6000,4800, 720 ,Economy Double or Twin Room,1 large double bed,8.7,Fabulous ,740,Only 2 rooms left ,Free cancellation
+117,117,117,SFO Hotel and Suites,0,4800, 576 ,Executive Double or Twin Room,1 large double bed,8.6,Fabulous ,46,Only 5 rooms left ,Free cancellation
+118,118,118,Treebo Trend The White Tree Hope Farm Junction,5156,2578, 309 ,Deluxe Double Room,1 double bed,7.2,Good ,68,No Rooms left,Free cancellation
+119,119,119,FabHotel Emara Grand,4584,2475, 297 ,Deluxe Room,1 double bed,4.7,Plesant ,3,Only 4 rooms left ,Free cancellation
+120,120,120,Ashraya International Hotel,0,2593, 311 ,Standard Double Room,2 single beds,6.5,Plesant ,63,No Rooms left,FREE cancellation • No prepayment needed
+121,121,121,Hotel Vellara,0,2500, 300 ,Double Room,2 single beds,8.1,Very good ,137,No Rooms left,FREE cancellation • No prepayment needed
+122,122,122,ibis Bengaluru City Centre - An Accor Brand,0,4505, 541 ,Standard Queen Room,1 large double bed,7.6,Good ,1443,No Rooms left,FREE cancellation • No prepayment needed
+123,123,123,BloomSuites I Electronics City,0,3960, 475 ,Deluxe Double Room,1 extra-large double bed,7.2,Good ,167,Only 4 rooms left ,
+124,124,124,OYO 81833 Hotel Red Rose,2186,1421, 215 ,Classic Triple Room,2 extra-large double beds,6.2,Plesant ,55,No Rooms left,FREE cancellation • No prepayment needed
+125,125,125,OYO Homes 78310 Crystal Inn,1024,666, 45 ,Apartment,Entire apartment • 1 bedroom • 1 bathroom • 16m²1 double bed,6.3,Plesant ,27,No Rooms left,Free cancellation
+126,126,126,Grand Mercure Bengaluru at Gopalan Mall - An Accor Brand,0,7650, 1377 ,Deluxe Double or Twin Room, 1 double or 2 singles,8.7,Fabulous ,505,Only 7 rooms left ,FREE cancellation • No prepayment needed
+127,127,127,Hotel Panchvati Comforts,3500,2100, 252 ,Deluxe Room,1 large double bed,10.0,Exceptional ,1,No Rooms left,
+128,128,128,Hotel Bestend,0,999, 30 ,Standard Double Room with Fan,1 double bed,7.8,Good ,26,Only 1 room left ,FREE cancellation • No prepayment needed
+129,129,129,Capital O 46423 Clove Boutique Hotel Rajaji Nagar,3466,1733, 238 ,Deluxe Double Room,1 extra-large double bed,6.1,Plesant ,10,No Rooms left,Free cancellation
+130,130,130,SS CROWN inn,0,1440, 173 ,Deluxe Double Room,1 extra-large double bed,7.9,Good ,73,Only 2 rooms left ,FREE cancellation • No prepayment needed
+131,131,131,OYO 15358 Hotel Townhall,1598,799, 30 ,Classic Triple Room,1 large double bed,3.3,Plesant ,9,No Rooms left,Free cancellation
+132,132,132,ABM Boutique Hotel by Purple Cloud,0,2040, 245 ,Deluxe Room,1 double bed,6.8,Plesant ,16,No Rooms left,FREE cancellation • No prepayment needed
+133,133,133,OYO 88840 Mn Residency,1502,751, 45 ,Standard Double Room,2 large double beds,1.0,Plesant ,2,No Rooms left,FREE cancellation • No prepayment needed
+134,134,134,OYO 78921 VSV Avenue Hennur,733,462, 30 ,Apartment,Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 19m²1 double bed,6.0,Plesant ,20,Only 2 left ,Free cancellation
+135,135,135,Collection O 30004 Malleswaram,1610,1030, 154 ,Classic Triple Room,2 single beds,5.8,Plesant ,16,No Rooms left,Free cancellation
+136,136,136,Tulip Inn Koramangala,0,5357, 643 ,Royal Suite,1 large double bed,7.5,Good ,42,Only 2 rooms left ,
+137,137,137,Comfort Inn Insys,0,5146, 618 ,Premium Room,Multiple bed types,7.7,Good ,169,Only 5 rooms left ,
+138,138,138,OYO 71863 The Red Velvet,1672,970, 30 ,Classic Triple Room,1 large double bed,4.2,Plesant ,12,Only 7 rooms left ,Free cancellation
+139,139,139,Hypons Hotel,0,2250, 270 ,Executive Room,1 double bed,7.9,Good ,11,Only 5 rooms left ,Free cancellation
+140,140,140,VAMA Retreats,0,4464, 536 ,Superior King Room,1 extra-large double bed,9.1,Superb ,60,Only 2 rooms left ,
+141,141,141,Fairfield by Marriott Bengaluru Rajajinagar,0,5799, 696 ,Fairfield Deluxe Room ,1 extra-large double bed,7.3,Good ,421,Only 4 rooms left ,FREE cancellation • No prepayment needed
+142,142,142,De Mandarin,0,4500, 540 ,Comfy Room,1 large double bed,7.4,Good ,72,Only 3 rooms left ,FREE cancellation • No prepayment needed
+143,143,143,"Holiday Inn Express & Suites Bengaluru Old Madras Road, an IHG Hotel",0,4749, 570 ,Standard Room with Free Buffet Breakfast & 10% Disc on F&B,2 single beds,8.3,Very good ,471,No Rooms left,Free cancellation
+144,144,144,OYO 78899 Exotic Stay BG Road,1172,762, 45 ,Apartment,Entire apartment • 1 bedroom • 1 bathroom • 16m²1 double bed,5.5,Plesant ,18,No Rooms left,FREE cancellation • No prepayment needed
+145,145,145,"Howard Johnson By Wyndham, Hebbal, Bengaluru",0,5700, 969 ,Deluxe Twin Room,1 double bed,7.3,Good ,467,No Rooms left,FREE cancellation • No prepayment needed
+146,146,146,Hotel Ganga Sagar,1979,1187, 142 ,Deluxe Double Room,1 double bed,6.8,Plesant ,40,No Rooms left,FREE cancellation • No prepayment needed
+147,147,147,Octave Kings Suites,0,1250, 150 ,Deluxe Double Room,1 single bed,4.7,Plesant ,14,No Rooms left,FREE cancellation • No prepayment needed
+148,148,148,"ITC Windsor, a Luxury Collection Hotel, Bengaluru",0,10500, 1890 ,Executive Club Room,1 large double bed,8.2,Very good ,1318,Only 3 rooms left ,FREE cancellation • No prepayment needed
+149,149,149,Collection O 82501 Blue Waters Lounge,1136,568, 30 ,Classic Triple Room,1 extra-large double bed,6.1,Plesant ,12,Only 6 rooms left ,FREE cancellation • No prepayment needed
+150,150,150,"Howard Johnson By Wyndham, Hebbal, Bengaluru",0,5700, 969 ,Deluxe Twin Room,1 double bed,7.3,Good ,467,No Rooms left,FREE cancellation • No prepayment needed
+151,151,151,FabExpress Ivory Pearl III,2291,1237, 178 ,Deluxe Room,1 large double bed,6.3,Plesant ,34,No Rooms left,Free cancellation
+152,152,152,OYO 6790 Hotel subha Residency,1420,710, 30 ,Triple Room with Bathroom,1 double bed,5.6,Plesant ,27,No Rooms left,FREE cancellation • No prepayment needed
+153,153,153,OYO 79879 Elite Stays JP Nagar,787,496, 30 ,Apartment,Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 16m²1 double bed,5.3,Plesant ,57,Only 1 left ,Free cancellation
+154,154,154,OYO Flagship 9528 Hotel Midas Casita,963,568, 45 ,Standard Double Room,2 double beds,5.4,Plesant ,8,No Rooms left,Free cancellation
+155,155,155,Octave Paris Residency,0,1150, 138 ,Standard Double or Twin Room,1 double bed,7.4,Good ,206,No Rooms left,FREE cancellation • No prepayment needed
+156,156,156,Hotel Parkwood inn,0,809,Includes ,Standard Double Room,1 double bed,4.5,Plesant ,19,Only 4 rooms left ,FREE cancellation • No prepayment needed
+157,157,157,OYO Flagship 79509 Phoenix Residency,2070,1035, 154 ,Classic Triple Room,2 large double beds,5.7,Plesant ,6,No Rooms left,FREE cancellation • No prepayment needed
+158,158,158,OYO 76452 New Town Residency,1803,1154, 168 ,Classic Triple Room,1 extra-large double bed,3.0,Plesant ,7,No Rooms left,Free cancellation
+159,159,159,Soundarya Hotel,1500,1350, 162 ,Standard Double or Twin Room,1 large double bed,8.7,Fabulous ,10,No Rooms left,FREE cancellation • No prepayment needed
+160,160,160,La Sara Gateway,0,2800, 336 ,Superior Deluxe Double or Twin Room ,"3 beds (2 singles, 1 double)",10.0,Exceptional ,1,Only 2 rooms left ,
+161,161,161,Palm Meadows Resort,0,8000, 1440 ,Superior Twin Room,"3 beds (2 singles, 1 futon)",8.0,Very good ,111,Only 1 room left ,
+162,162,162,Hotel GM Plaza,0,1680, 202 ,Superior Queen Room,1 large double bed,6.5,Plesant ,35,No Rooms left,Free cancellation
+163,163,163,Hotel Grand Suites,0,1100, 132 ,Standard Double Room,1 large double bed,6.7,Plesant ,304,Only 1 room left ,Free cancellation
+164,164,164,OYO 46067 Sree Lakshmi Residency,1272,636, 45 ,Small Double Room,1 large double bed,2.6,Plesant ,9,Only 5 rooms left ,Free cancellation
+165,165,165,Collection O 30067 Hotel Palmtree,2043,1328, 189 ,Classic Triple Room,1 large double bed,6.1,Plesant ,33,No Rooms left,Free cancellation
+166,166,166,Alchemy Suits,3150,2205, 265 ,Deluxe Double Room,1 extra-large double bed,8.0,Very good ,17,Only 2 rooms left ,
+167,167,167,Radha Hometel,0,3609, 433 ,Superior Twin Room,2 single beds,7.1,Good ,84,Only 4 rooms left ,
+168,168,168,Jagadish Hotels Sankey Road,5610,4600, 552 ,Deluxe Room,1 extra-large double bed,7.5,Good ,19,No Rooms left,Free cancellation
+169,169,169,Hotel Abooz,0,1900, 228 ,Standard Double or Twin Room,1 double bed,8.3,Very good ,6,Only 2 rooms left ,
+170,170,170,Treebo Trip Hotel BCP Suites,3068,1534, 214 ,Standard Double Room,1 extra-large double bed,7.9,Good ,59,No Rooms left,Free cancellation
+171,171,171,Capital O 36457 Boulevard Madiwala,2110,1055, 172 ,Classic Triple Room,1 large double bed,6.8,Plesant ,30,No Rooms left,Free cancellation
+172,172,172,Hotel G Grand,0,1709, 205 ,Standard Double Room,1 double bed,0.0,No Review,0,Only 5 rooms left ,FREE cancellation • No prepayment needed
+173,173,173,Vaccinated Staff - Capital O 12543 Three Square,918,532, 45 ,Budget Double Room,2 large double beds,4.8,Plesant ,5,No Rooms left,Free cancellation
+174,174,174,Manpho Bell Hotel & Convention Center,2350,1998, 240 ,Deluxe Double or Twin Room,"3 beds (2 singles, 1 large double)",5.9,Plesant ,78,No Rooms left,FREE cancellation • No prepayment needed
+175,175,175,"Country Inn & Suites By Radisson, Bengaluru Hebbal Road",0,6000, 720 ,Day Use Room  (Check in at 12 PM and Check out at 5 PM on the SAME Day),1 double bed,6.6,Plesant ,349,Only 4 rooms left ,Free cancellation
+176,176,176,X by Bloom I Hebbal Manyata Park,0,2600, 312 ,Deluxe King Room,1 double bed,7.6,Good ,26,Only 7 rooms left ,FREE cancellation • No prepayment needed
+177,177,177,Click Hotel Bangalore,3400,2720, 326 ,"Double Room - 10% off on Laundry, 10% off on F&B, Complimentary Drivers accommodation",1 double bed,8.7,Fabulous ,548,Only 3 rooms left ,
+178,178,178,Hotel Apple Suites,2400,1920, 230 ,Deluxe Triple Room,"2 beds (1 single, 1 double)",7.6,Good ,224,Only 3 rooms left ,FREE cancellation • No prepayment needed
+179,179,179,Orchid Suites - A Boutique Hotel Bangalore Off Residency Road,0,3000, 360 ,Deluxe Queen Room,1 large double bed,6.9,Plesant ,18,No Rooms left,FREE cancellation • No prepayment needed
+180,180,180,FabHotel Sri Krishna Suites Bellandur - Fully Vaccinated Staff,4194,2391, 287 ,Deluxe Double Room,1 double bed,6.2,Plesant ,35,No Rooms left,Free cancellation
+181,181,181,Octave Hotel - Double Road,0,1900, 228 ,Deluxe Double Room,1 double bed,8.1,Very good ,687,No Rooms left,FREE cancellation • No prepayment needed
+182,182,182,Treebo Trend The Grand Skyla Marathahalli,5246,2623, 345 ,Deluxe Double Room,"2 beds (1 single, 1 extra-large double)",7.2,Good ,57,Only 7 rooms left ,Free cancellation
+183,183,183,ibis Bengaluru Outer Ring Road,0,6800, 816 ,Deluxe Queen Room,1 large double bed,7.6,Good ,302,No Rooms left,FREE cancellation • No prepayment needed
+184,184,184,Empire International Church Street,0,3500, 420 ,Standard Double Room,1 double bed,7.0,Good ,253,Only 2 rooms left ,FREE cancellation • No prepayment needed
+185,185,185,Octave Royal Opera,0,1675, 201 ,Deluxe Double Room,1 large double bed,8.3,Very good ,438,No Rooms left,FREE cancellation • No prepayment needed
+186,186,186,Radiant Resort,0,3800, 456 ,Deluxe Double or Twin Room with Fan, 1 double or 2 singles,6.2,Plesant ,146,No Rooms left,FREE cancellation • No prepayment needed
+187,187,187,Treebo Trend Paul'S Inn Koramangala,5870,2935, 352 ,[Sanitized] Deluxe Double or Twin Room,Multiple bed types,6.7,Plesant ,243,Only 1 room left ,Free cancellation
+188,188,188,Collection O 82501 Blue Waters Lounge,1136,568, 30 ,Classic Triple Room,1 extra-large double bed,6.1,Plesant ,12,Only 6 rooms left ,FREE cancellation • No prepayment needed
+189,189,189,OYO 79879 Elite Stays JP Nagar,787,496, 30 ,Apartment,Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 16m²1 double bed,5.3,Plesant ,57,Only 1 left ,Free cancellation
+190,190,190,Treebo Trend Apple Villa Richmond Circle,4704,2352, 282 ,[Sanitized] Standard Double or Twin Room,Multiple bed types,7.3,Good ,312,No Rooms left,Free cancellation
+191,191,191,Hotel Avora Tree By Rivido Kempegowda Airport Road,3000,2400, 288 ,Standard King Room,1 double bed,7.7,Good ,152,No Rooms left,Free cancellation
+192,192,192,Lemon Tree Hotel Electronics City,0,8414, 2507 ,Business Double or Twin Room, 1 double or 2 singles,7.4,Good ,121,Only 2 rooms left ,
+193,193,193,Hotel Foxglove International,2999,2699, 324 ,Superior Double Room, 1 double or 2 singles,6.7,Plesant ,36,Only 3 rooms left ,Free cancellation
+194,194,194,Bloom Hotel - Brookefield,0,4000, 480 ,Standard Queen Room,1 double bed,6.8,Plesant ,6,No Rooms left,
+195,195,195,Upar Hotels Indiranagar,0,3220, 386 ,Deluxe Suite,"Private suite • 1 bedroom • 1 living room • 1 bathroom • 19m²2 beds (1 sofa bed, 1 large double)",6.8,Plesant ,21,Only 1 left ,
+196,196,196,Treebo Trend Edha Suites Koramangala,6990,3495, 419 ,[Sanitized] Deluxe Double or Twin Room, 1 double or 2 singles,7.7,Good ,114,Only 3 rooms left ,Free cancellation
+197,197,197,Treebo Trend Hotel Royal Orbit Hulimavu,3627,1813, 218 ,Standard Double Room,1 extra-large double bed,7.9,Good ,28,No Rooms left,Free cancellation
+198,198,198,FabHotel S Comfort Inn,5208,2812, 337 ,Superior Double Room,1 large double bed,7.8,Good ,33,Only 1 room left ,Free cancellation
+199,199,199,Icon Regency by Bhagini,0,2249, 270 ,Deluxe Studio,Private studio • 21m²1 single bed,7.7,Good ,120,Only 6 left ,
+200,200,200,Luxtay Suites,0,2950, 354 ,Standard Double Room,1 double bed,7.7,Good ,105,Only 3 rooms left ,
+201,201,201,Hotel The Shack,0,1978, 237 ,Deluxe Double room Non AC,1 large double bed,7.4,Good ,54,Only 1 room left ,FREE cancellation • No prepayment needed
+202,202,202,Pai Viceroy,0,3800, 456 ,Superior Double Room,1 large double bed,7.9,Good ,62,Only 6 rooms left ,FREE cancellation • No prepayment needed
+203,203,203,OYO Flagship 18680 Olivia Comforts,1230,726, 30 ,Standard Double Room,1 large double bed,3.8,Plesant ,15,Only 6 rooms left ,Free cancellation
+204,204,204,Octave Brookefield Suites,0,2600, 312 ,Deluxe Double Room,1 large double bed,7.8,Good ,163,No Rooms left,FREE cancellation • No prepayment needed
+205,205,205,The Byke Signature,0,3320, 398 ,Superior Twin Room,2 single beds,6.5,Plesant ,26,No Rooms left,
+206,206,206,Courtyard by Marriott Bengaluru Outer Ring Road,0,12500, 2250 ,"Guest room, 2 Twin/Single Bed(s), City view",2 single beds,8.6,Fabulous ,133,Only 5 rooms left ,FREE cancellation • No prepayment needed
+207,207,207,Hotel City Centaur and Convention Center- Vaccinated Staff,0,2070, 248 ,Standard Double Room with Fan,1 large double bed,6.4,Plesant ,232,No Rooms left,FREE cancellation • No prepayment needed
+208,208,208,ICON Boutique by Bhagini,0,4724, 567 ,Deluxe King Studio,Private studio • 1 bathroom • 180m²2 single beds,8.1,Very good ,51,Only 6 left ,
+209,209,209,Pinnacle Serviced Apartments,0,8000, 1440 ,Apartment,Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 167m²2 large double beds,0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+210,210,210,4 SEASONS SUITES J.P. NAGAR,0,2195, 263 ,Deluxe Queen Room,1 double bed,6.3,Plesant ,87,Only 1 room left ,FREE cancellation • No prepayment needed
+211,211,211,"Hotel Monarch By Rivido, Bannerghatta Main Road",2500,1875, 225 ,Deluxe Queen Room,1 double bed,6.3,Plesant ,78,Only 6 rooms left ,Free cancellation
+212,212,212,Treebo Trend Kozy Rooms HSR Layout,5059,2530, 304 ,Standard Double Room,1 large double bed,6.8,Plesant ,52,Only 1 room left ,Free cancellation
+213,213,213,The Green Path Eco Hotel,2400,2040, 245 ,Standard Double Room,1 large double bed,4.4,Plesant ,5,No Rooms left,FREE cancellation • No prepayment needed
+214,214,214,Radha Regent Electronic City,0,6500, 780 ,Superior Double Room,1 double bed,6.9,Plesant ,88,No Rooms left,Free cancellation
+215,215,215,Octave Himalaya Monarch,0,1425, 171 ,Deluxe Double Room,1 large double bed,6.8,Plesant ,26,No Rooms left,FREE cancellation • No prepayment needed
+216,216,216,Ginger Bangalore- Whitefield,0,4799, 576 ,Luxe Room,1 large double bed,6.2,Plesant ,42,No Rooms left,FREE cancellation • No prepayment needed
+217,217,217,OYO 79887 The Purple Orchid Stay,1404,913, 45 ,Apartment,Entire apartment • 1 bedroom • 1 bathroom • 19m²1 double bed,3.3,Plesant ,34,Only 1 left ,Free cancellation
+218,218,218,OYO Flagship 18372 Splenor Inn,1798,899, 30 ,Deluxe Double Room,1 large double bed,5.6,Plesant ,36,No Rooms left,Free cancellation
+219,219,219,Nash Inn,0,899,Includes ,Double Room,2 single beds,5.1,Plesant ,46,Only 5 rooms left ,
+220,220,220,FabHotel Phoenix,4650,2279, 273 ,Deluxe Room,1 large double bed,7.3,Good ,70,Only 6 rooms left ,Free cancellation
+221,221,221,FabHotel Frazer Suites Pulikeshi Nagar,3855,2082, 250 ,Deluxe Room,1 double bed,7.4,Good ,69,Only 7 rooms left ,Free cancellation
+222,222,222,OYO 385 TownHouse Navya International Ramamurthy Nagar,1952,976, 30 ,Standard Double Room,1 extra-large double bed,6.4,Plesant ,31,No Rooms left,Free cancellation
+223,223,223,V One Hotel-Ambara Elite,0,3250, 390 ,Double Room with Balcony,1 extra-large double bed,6.4,Plesant ,15,No Rooms left,
+224,224,224,Octave Hotel & Spa - Sarjapur Road,0,3325, 399 ,Super Deluxe Double or Twin Room,1 double bed,7.8,Good ,710,Only 7 rooms left ,FREE cancellation • No prepayment needed
+225,225,225,SPOT ON 71449 Ssr Lodging And Boarding,1332,666, 30 ,Standard Double Room with Fan,1 large double bed,5.3,Plesant ,21,No Rooms left,Free cancellation
+226,226,226,Conrad Bengaluru,0,11000, 1980 ,Deluxe King Room - Lake View,1 extra-large double bed,8.4,Very good ,1081,No Rooms left,FREE cancellation • No prepayment needed
+227,227,227,Hotel Saarang Forever,0,1500, 180 ,Family Suite,Private suite1 large double bed,8.3,Very good ,141,Only 1 left ,FREE cancellation • No prepayment needed
+228,228,228,Capital O 70991 Prime Square,2141,1071, 173 ,Standard Double Room,1 large double bed,5.4,Plesant ,16,No Rooms left,Free cancellation
+229,229,229,SPOT ON 65593 Yatra Inn,844,506, 30 ,Triple Room with Bathroom,1 large double bed,5.9,Plesant ,26,No Rooms left,Free cancellation
+230,230,230,SPOT ON 75492 The Royal Comfort,1528,993, 45 ,Triple Room with Bathroom,1 large double bed,6.9,Plesant ,17,No Rooms left,Free cancellation
+231,231,231,Zip By Spree Hotels Whitefield,3299,3134, 376 ,Double or Twin Room,Multiple bed types,6.8,Plesant ,10,No Rooms left,
+232,232,232,Hotel UR Comforts Jayanagar,0,1540, 185 ,Deluxe Room,1 extra-large double bed,7.0,Good ,38,No Rooms left,FREE cancellation • No prepayment needed
+233,233,233,White Mist by Happy Retreats,0,5950, 714 ,Double Room,1 double bed,8.2,Very good ,5,Only 2 rooms left ,
+234,234,234,OYO 78888 Elite Stays JP Nagar New,999,650, 30 ,Apartment,Entire apartment • 1 bedroom • 1 bathroom • 16m²1 double bed,5.3,Plesant ,17,No Rooms left,Free cancellation
+235,235,235,OYO 15695 Varcity Comforts,1010,586, 45 ,Standard Double Room,1 large double bed,3.0,Plesant ,2,No Rooms left,Free cancellation
+236,236,236,Sanctum Suites Indiranagar Bangalore,0,2800, 336 ,Deluxe Queen Room,1 double bed,8.0,Very good ,25,Only 4 rooms left ,FREE cancellation • No prepayment needed
+237,237,237,Hotel Arafa Inn,0,1800, 216 ,Deluxe Room,1 large double bed,7.6,Good ,246,No Rooms left,FREE cancellation • No prepayment needed
+238,238,238,NestHotels Kormangala by Urban,2950,2360, 283 ,Deluxe Room,1 large double bed,4.0,Plesant ,1,Only 2 rooms left ,Free cancellation
+239,239,239,Aloft Bengaluru Whitefield,0,5525, 663 ,"Aloft Room, 2 Queen, City view",1 large double bed,8.0,Very good ,154,No Rooms left,FREE cancellation • No prepayment needed
+240,240,240,"Liwa - The Transit Hotel, Bengaluru",0,3215, 386 ,King Room,1 extra-large double bed,7.5,Good ,121,Only 7 rooms left ,FREE cancellation • No prepayment needed
+241,241,241,"ITC Gardenia, a Luxury Collection Hotel, Bengaluru",0,12350, 2223 ,"Towers room, Guest room, 1 Queen",1 large double bed,8.5,Very good ,1131,Only 5 rooms left ,
+242,242,242,Lusia Inn,0,999,Includes ,Standard Double Room,1 extra-large double bed,6.5,Plesant ,42,Only 3 rooms left ,
+243,243,243,Hotel Omicron 1 BHK Studio room,0,1900, 228 ,1 BHK Studio Room,"Private studio • 1 bathroom • 46m²2 beds (1 large double, 1 futon)",8.1,Very good ,22,Only 1 left ,FREE cancellation • No prepayment needed
+244,244,244,OYO 9253 Champion Comfort,2320,1160, 169 ,Classic Triple Room,1 extra-large double bed,7.2,Good ,25,No Rooms left,Free cancellation
+245,245,245,OYO Flagship 11640 Hotel Aaira Inn,1598,799, 30 ,Classic Triple Room,2 extra-large double beds,6.5,Plesant ,11,Only 6 rooms left ,Free cancellation
+246,246,246,Raj Residency,0,793,Includes ,Deluxe Double Room,1 double bed,6.4,Plesant ,14,Only 5 rooms left ,
+247,247,247,bloomrooms @ City Centre,0,3400, 408 ,Standard Double Room,1 large double bed,8.4,Very good ,331,No Rooms left,FREE cancellation • No prepayment needed
+248,248,248,Casa Cottage,5000,3750, 450 ,Deluxe Room, 1 double or 2 singles,8.3,Very good ,178,Only 1 room left ,
+249,249,249,Vivanta Bengaluru Residency Road,0,10000, 1800 ,Deluxe Double Room,1 double bed,8.0,Very good ,689,Only 5 rooms left ,Free cancellation
+250,250,250,Radisson Blu Bengaluru Outer Ring Road,0,8400, 1512 ,Superior Room, 1 double or 2 singles,7.9,Good ,719,No Rooms left,FREE cancellation • No prepayment needed
+251,251,251,Hotel Embassy,0,990,Includes ,Double Room,1 large double bed,7.0,Good ,172,Only 7 rooms left ,FREE cancellation • No prepayment needed
+252,252,252,Hotel Paramos Inn,0,2750, 330 ,Standard Double Room,1 double bed,7.9,Good ,41,Only 2 rooms left ,
+253,253,253,JW Marriott Hotel Bengaluru,0,13350, 2403 ,Deluxe Room 2 Twin,1 extra-large double bed,8.1,Very good ,226,Only 5 rooms left ,FREE cancellation • No prepayment needed
+254,254,254,"Country Inn & Suites By Radisson, Bengaluru Hebbal Road",0,6000, 720 ,Day Use Room  (Check in at 12 PM and Check out at 5 PM on the SAME Day),1 double bed,6.6,Plesant ,349,Only 4 rooms left ,Free cancellation
+255,255,255,OYO 76521 Manan Paradise,1384,900, 30 ,Classic Triple Room,"3 beds (1 single, 1 double, 1 large double)",4.3,Plesant ,4,No Rooms left,Free cancellation
+256,256,256,Lazdana Hotel Bangalore,0,4499, 540 ,Superior Double or Twin Room,"3 beds (2 singles, 1 extra-large double)",7.5,Good ,8,No Rooms left,FREE cancellation • No prepayment needed
+257,257,257,Hotel Bangalore Gate,0,2450, 294 ,Executive Double or Twin Room, 1 double or 2 singles,8.0,Very good ,79,Only 3 rooms left ,Free cancellation
+258,258,258,Hoppers Stop Yelahanka,1749,1574, 189 ,Deluxe Double Room,"2 beds (1 single, 1 extra-large double)",8.1,Very good ,33,Only 1 room left ,FREE cancellation • No prepayment needed
+259,259,259,Hotel City Meridian,0,1080, 130 ,Queen Room,1 double bed,0.0,No Review,0,No Rooms left,
+260,260,260,FabHotel Crown Suites,3648,1970, 236 ,Deluxe Room,1 large double bed,8.1,Very good ,170,Only 1 room left ,Free cancellation
+261,261,261,FabHotel Krishna Boutique Marathahalli - Fully Vaccinated Staff,5209,2813, 338 ,Executive Triple Room,1 large double bed,6.9,Plesant ,106,No Rooms left,Free cancellation
+262,262,262,De Venetian by TGI,0,3599, 432 ,Superior Double Room,1 large double bed,7.8,Good ,22,Only 7 rooms left ,
+263,263,263,DoubleTree Suites by Hilton Bangalore,0,8088, 1933 ,King Bed Studio with Balcony,1 extra-large double bed,8.2,Very good ,809,No Rooms left,FREE cancellation • No prepayment needed
+264,264,264,Hilton Bangalore Embassy GolfLinks,0,9500, 1710 ,"King Hilton Guestroom with Sofa cum Bed, Bathtub, 15% disc on F&B andSpa",1 extra-large double bed,8.5,Very good ,508,No Rooms left,FREE cancellation • No prepayment needed
+265,265,265,SAS Apartment,0,1800, 216 ,Standard Double Room,1 single bed,8.1,Very good ,93,Only 3 rooms left ,
+266,266,266,Raj Residency,0,2375, 285 ,Standard Double Room,2 single beds,7.6,Good ,155,Only 7 rooms left ,FREE cancellation • No prepayment needed
+267,267,267,Sapphire stay,899,809,Includes ,Budget Double Room,1 double bed,6.9,Plesant ,173,Only 3 rooms left ,FREE cancellation • No prepayment needed
+268,268,268,Hotel Empire Central Street,0,2500, 300 ,Standard Double Room,1 large double bed,7.5,Good ,83,Only 1 room left ,FREE cancellation • No prepayment needed
+269,269,269,OYO Flagship 29620 New Champion Residency,1461,950, 30 ,Classic Triple Room,2 large double beds,5.1,Plesant ,15,No Rooms left,Free cancellation
+270,270,270,OYO 78921 VSV Avenue Hennur,952,600, 30 ,Apartment,Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 19m²1 double bed,6.0,Plesant ,20,Only 2 left ,Free cancellation
+271,271,271,OYO 9419 Manu Residency,1204,711, 30 ,Standard Double Room,1 extra-large double bed,5.3,Plesant ,18,No Rooms left,Free cancellation
+272,272,272,OYO 71574 Hotel Silver House,1230,800, 30 ,Classic Triple Room,1 large double bed,6.4,Plesant ,8,No Rooms left,FREE cancellation • No prepayment needed
+273,273,273,Sai Hotel Rooms,0,900,Includes ,Standard Room,1 double bed,0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+274,274,274,FabHotel Hiland Suites,2966,1780, 244 ,Deluxe Room,1 large double bed,7.5,Good ,46,No Rooms left,Free cancellation
+275,275,275,ABM Boutique Hotel by Purple Cloud,0,2040, 245 ,Deluxe Room,1 double bed,6.8,Plesant ,16,No Rooms left,FREE cancellation • No prepayment needed
+276,276,276,Hotel surya dev residency,0,2450, 294 ,Superior Deluxe Double or Twin Room ,1 extra-large double bed,7.8,Good ,67,No Rooms left,
+277,277,277,OYO 78921 VSV Avenue Hennur,733,462, 30 ,Apartment,Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 19m²1 double bed,6.0,Plesant ,20,Only 2 left ,Free cancellation
+278,278,278,FabExpress Oriental Suites BTM Layout,3438,1857, 223 ,[Sanitised]Deluxe Room,1 large double bed,7.5,Good ,204,No Rooms left,Free cancellation
+279,279,279,juSTa Off MG Road,5699,5129, 615 ,Deluxe Room,1 extra-large double bed,7.4,Good ,53,Only 2 rooms left ,Free cancellation
+280,280,280,Comfort Inn Insys,0,5146, 618 ,Premium Room,Multiple bed types,7.7,Good ,169,Only 5 rooms left ,
+281,281,281,Collection O 12684 Compact Green View,2623,1312, 202 ,Classic Triple Room,1 large double bed,7.3,Good ,23,Only 4 rooms left ,Free cancellation
+282,282,282,Hypons Hotel,0,2250, 270 ,Executive Room,1 double bed,7.9,Good ,11,Only 5 rooms left ,Free cancellation
+283,283,283,SPOT ON 71449 Ssr Lodging And Boarding,1332,666, 30 ,Standard Double Room with Fan,1 large double bed,5.3,Plesant ,21,No Rooms left,Free cancellation
+284,284,284,Davanam Sarovar Portico Suites,11000,9900, 1782 ,Deluxe Suite,"Private suite • 1 bedroom • 1 living room • 1 bathroom • 88m²3 beds (2 singles, 1 sofa bed)",8.3,Very good ,120,Only 3 left ,FREE cancellation • No prepayment needed
+285,285,285,OYO 10480 Hotel PMR,1528,932, 30 ,Classic Triple Room,1 large double bed,5.4,Plesant ,52,No Rooms left,Free cancellation
+286,286,286,VAMA Retreats,0,4464, 536 ,Superior King Room,1 extra-large double bed,9.1,Superb ,60,Only 2 rooms left ,
+287,287,287,OYO 9253 Champion Comfort,2320,1160, 169 ,Classic Triple Room,1 extra-large double bed,7.2,Good ,25,No Rooms left,Free cancellation
+288,288,288,FabHotel Shreyas Inn,4948,2672, 321 ,Superior Double Room,1 large double bed,5.8,Plesant ,40,No Rooms left,Free cancellation
+289,289,289,Jagadish Hotels Sankey Road,5610,4600, 552 ,Deluxe Room,1 extra-large double bed,7.5,Good ,19,No Rooms left,Free cancellation
+290,290,290,De Mandarin,0,4500, 540 ,Comfy Room,1 large double bed,7.4,Good ,72,Only 3 rooms left ,FREE cancellation • No prepayment needed
+291,291,291,FabHotel Champion Gateway,3750,2025, 243 ,Deluxe Room,1 double bed,7.7,Good ,16,No Rooms left,Free cancellation
+292,292,292,OYO 78899 Exotic Stay BG Road,1172,762, 45 ,Apartment,Entire apartment • 1 bedroom • 1 bathroom • 16m²1 double bed,5.5,Plesant ,18,No Rooms left,FREE cancellation • No prepayment needed
+293,293,293,Octave Kings Suites,0,1250, 150 ,Deluxe Double Room,1 single bed,4.7,Plesant ,14,No Rooms left,FREE cancellation • No prepayment needed
+294,294,294,Treebo Tryst Raj Vista Global Village,5993,2996, 360 ,Standard Double Room,1 large double bed,9.1,Superb ,30,Only 3 rooms left ,Free cancellation
+295,295,295,Le Foliage by TGI,0,7500, 900 ,Executive Double Room,1 single bed,6.6,Plesant ,17,No Rooms left,
+296,296,296,Octave Kanthi Comforts,0,1225, 147 ,[Sanitized] Deluxe Double or Twin Room,1 large double bed,7.8,Good ,245,No Rooms left,FREE cancellation • No prepayment needed
+297,297,297,Capital O 80212 Rams 4 Seasons Boutique Hotel,765,498, 30 ,Standard Double Room,1 extra-large double bed,4.4,Plesant ,23,No Rooms left,
+298,298,298,OYO Flagship 77190 Hotel Nash Inn,947,616,Includes ,Classic Triple Room,1 large double bed,4.8,Plesant ,4,Only 4 rooms left ,FREE cancellation • No prepayment needed
+299,299,299,Tulip Inn Koramangala,0,5357, 643 ,Royal Suite,1 large double bed,7.5,Good ,42,Only 2 rooms left ,
+300,300,300,Octave Paris Residency,0,1150, 138 ,Standard Double or Twin Room,1 double bed,7.4,Good ,206,No Rooms left,FREE cancellation • No prepayment needed
+301,301,301,Hotel Parkwood inn,0,809,Includes ,Standard Double Room,1 double bed,4.5,Plesant ,19,Only 4 rooms left ,FREE cancellation • No prepayment needed
+302,302,302,Soundarya Hotel,1500,1350, 162 ,Standard Double or Twin Room,1 large double bed,8.7,Fabulous ,10,No Rooms left,FREE cancellation • No prepayment needed
+303,303,303,La Sara Gateway,0,2800, 336 ,Superior Deluxe Double or Twin Room ,"3 beds (2 singles, 1 double)",10.0,Exceptional ,1,Only 2 rooms left ,
+304,304,304,Hotel Ambient Turret,0,5600,Includes ,Superior Double Room,1 extra-large double bed,6.6,Plesant ,21,No Rooms left,FREE cancellation • No prepayment needed
+305,305,305,Hotel GM Plaza,0,1680, 202 ,Superior Queen Room,1 large double bed,6.5,Plesant ,35,No Rooms left,Free cancellation
+306,306,306,FabHotel Vista Suites Bangalore East Railway Station,4583,2246, 269 ,(Sanitised) Deluxe Room,1 double bed,8.4,Very good ,53,No Rooms left,Free cancellation
+307,307,307,OYO 46067 Sree Lakshmi Residency,1272,636, 45 ,Small Double Room,1 large double bed,2.6,Plesant ,9,Only 5 rooms left ,Free cancellation
+308,308,308,Shoba Residency-Kammanahalli,2100,1890, 227 ,Executive Double Room with Fan,"2 beds (1 large double, 1 futon)",7.1,Good ,28,Only 3 rooms left ,FREE cancellation • No prepayment needed
+309,309,309,Alchemy Suits,3150,2205, 265 ,Deluxe Double Room,1 extra-large double bed,8.0,Very good ,17,Only 2 rooms left ,
+310,310,310,Hotel Abooz,0,1900, 228 ,Standard Double or Twin Room,1 double bed,8.3,Very good ,6,Only 2 rooms left ,
+311,311,311,FabHotel SRK Platinum Inn,3750,2025, 243 ,Deluxe Room,1 double bed,6.2,Plesant ,20,No Rooms left,Free cancellation
+312,312,312,Treebo Trip Hotel BCP Suites,3068,1534, 214 ,Standard Double Room,1 extra-large double bed,7.9,Good ,59,No Rooms left,Free cancellation
+313,313,313,Sapphire Inn,1140,912,Includes ,Deluxe Double Room,1 double bed,7.0,Good ,62,Only 2 rooms left ,
+314,314,314,Palm Meadows Resort,0,8000, 1440 ,Superior Twin Room,"3 beds (2 singles, 1 futon)",8.0,Very good ,111,Only 1 room left ,
+315,315,315,Navanidhi Comforts,0,1200, 144 ,Deluxe Double Room,1 double bed,6.8,Plesant ,20,Only 4 rooms left ,FREE cancellation • No prepayment needed
+316,316,316,Hotel G Grand,0,1709, 205 ,Standard Double Room,1 double bed,0.0,No Review,0,Only 5 rooms left ,FREE cancellation • No prepayment needed
+317,317,317,OYO 76339 Sai Orchid,1296,648, 30 ,Classic Triple Room,1 large double bed,6.0,Plesant ,3,No Rooms left,Free cancellation
+318,318,318,OYO Townhouse 159 Sarjapur,2698,1754, 270 ,Classic Triple Room,1 large double bed,6.0,Plesant ,31,Only 4 rooms left ,Free cancellation
+319,319,319,Olive Whitefield by Embassy Group,6949,4864, 584 ,Suite with City View,Private suite • 1 bedroom • 1 living room • 1 bathroom • 48m²1 extra-large double bed,6.7,Plesant ,63,No Rooms left,
+320,320,320,Manpho Bell Hotel & Convention Center,2350,1998, 240 ,Deluxe Double or Twin Room,"3 beds (2 singles, 1 large double)",5.9,Plesant ,78,No Rooms left,FREE cancellation • No prepayment needed
+321,321,321,Treebo Trend Primeland Suits Global Village,4568,2284, 274 ,Standard Double Room,1 extra-large double bed,6.8,Plesant ,39,No Rooms left,Free cancellation
+322,322,322,OYO 78266 Collection O Sathyajyothi Comforts,2078,1039, 170 ,Classic Triple Room,1 large double bed,6.6,Plesant ,16,No Rooms left,FREE cancellation • No prepayment needed
+323,323,323,Treebo Trend Hotel Sampradaya Bistro Mailasandra,6736,3368, 404 ,[Sanitized] Deluxe Double Room,1 large double bed,7.9,Good ,103,Only 1 room left ,Free cancellation
+324,324,324,goSTOPS Bengaluru,3148,2109, 253 ,Deluxe Double Room,1 large double bed,8.6,Fabulous ,145,Only 1 room left ,FREE cancellation • No prepayment needed
+325,325,325,The City Living,0,2500, 300 ,Deluxe King Room, 1 double or 2 singles,6.6,Plesant ,32,No Rooms left,Free cancellation
+326,326,326,Hotel Housefinch Residency,1100,990,Includes ,Economy Double Room,"2 beds (1 single, 1 extra-large double)",7.0,Good ,90,Only 5 rooms left ,FREE cancellation • No prepayment needed
+327,327,327,Octave Hotel & Spa - Marathahalli,0,2275, 273 ,Deluxe Double Room,2 single beds,6.5,Plesant ,273,Only 6 rooms left ,FREE cancellation • No prepayment needed
+328,328,328,FabHotel Rotano Suites Yelahanka,3021,1631, 196 ,Deluxe Room,1 double bed,7.7,Good ,171,No Rooms left,Free cancellation
+329,329,329,Sheraton Grand Bengaluru Whitefield Hotel & Convention Center,0,11250, 2025 ,Deluxe Room Twin Bed with City View,2 single beds,8.9,Fabulous ,165,Only 5 rooms left ,FREE cancellation • No prepayment needed
+330,330,330,Bengaluru Marriott Hotel Whitefield,0,11200, 2016 ,"Deluxe King, Guest room, 1 King",1 extra-large double bed,8.2,Very good ,342,No Rooms left,FREE cancellation • No prepayment needed
+331,331,331,Sanctum Suites BEL Road Bangalore,0,2900, 348 ,Standard King Room,1 extra-large double bed,7.2,Good ,71,Only 5 rooms left ,FREE cancellation • No prepayment needed
+332,332,332,Sandesh Kingston by Agira Hotels,0,2200, 264 ,Deluxe Room,1 extra-large double bed,6.1,Plesant ,8,No Rooms left,Free cancellation
+333,333,333,The Curzon Court,0,2200, 330 ,Standard Double or Twin Room,Multiple bed types,7.0,Good ,34,No Rooms left,
+334,334,334,Lords Eco Inn Bengaluru Jayanagar,0,4000, 480 ,Standard Twin Room,2 single beds,7.2,Good ,13,Only 2 rooms left ,Free cancellation
+335,335,335,MySpace Forest Keys,2970,2228, 267 ,Standard Double Room,1 large double bed,6.9,Plesant ,55,No Rooms left,Free cancellation
+336,336,336,Omatra Infantry Road,3999,2199, 264 ,Economy Twin Room,2 single beds,7.5,Good ,98,Only 1 room left ,FREE cancellation • No prepayment needed
+337,337,337,"Daffodil Suites, Manyata Tech Park",0,1799, 216 ,Standard Queen Room,"3 beds (2 singles, 1 large double)",5.8,Plesant ,5,No Rooms left,
+338,338,338,Oakwood Premier Prestige Bangalore,16500,12375, 2228 ,Studio Superior Apartment with kitchenette,Private studio • 1 bathroom • 1 kitchen • 42m²1 extra-large double bed,8.4,Very good ,835,No Rooms left,Free cancellation
+339,339,339,Hotel City Centre Residency,0,2750, 470 ,Deluxe Room,1 double bed,6.3,Plesant ,20,Only 1 room left ,Free cancellation
+340,340,340,Metro Stays,0,1150, 138 ,Deluxe Triple Room,1 double bed,7.5,Good ,4,Only 5 rooms left ,
+341,341,341,Grand Choice,0,1400, 168 ,Deluxe Double Room,1 large double bed,5.7,Plesant ,69,Only 1 room left ,FREE cancellation • No prepayment needed
+342,342,342,OYO Flagship 29620 New Champion Residency,1461,950, 30 ,Classic Triple Room,2 large double beds,5.1,Plesant ,15,No Rooms left,Free cancellation
+343,343,343,"OYO TOWNHOUSE 014, MG Road",6302,3151, 438 ,Classic Triple Room,1 large double bed,5.2,Plesant ,27,Only 1 room left ,FREE cancellation • No prepayment needed
+344,344,344,Radisson Blu Bengaluru Outer Ring Road,0,8400, 1512 ,Superior Room, 1 double or 2 singles,7.9,Good ,719,No Rooms left,FREE cancellation • No prepayment needed
+345,345,345,FabHotel Crown Suites,3648,1970, 236 ,Deluxe Room,1 large double bed,8.1,Very good ,170,Only 1 room left ,Free cancellation
+346,346,346,FabHotel Phoenix Resorts,3750,2025, 243 ,Deluxe Room,1 large double bed,6.0,Plesant ,40,Only 5 rooms left ,Free cancellation
+347,347,347,"The Ritz - Carlton, Bangalore",0,14300, 2574 ,Deluxe Room,1 extra-large double bed,9.3,Superb ,254,Only 5 rooms left ,FREE cancellation • No prepayment needed
+348,348,348,FabHotel Astra Electronic City,2916,1575, 189 ,(Sanitised) Superior Double Room,1 double bed,7.3,Good ,234,Only 2 rooms left ,Free cancellation
+349,349,349,Vega Residency,0,999,Includes ,Budget Double Room,1 double bed,6.7,Plesant ,7,Only 5 rooms left ,FREE cancellation • No prepayment needed
+350,350,350,Hotel Airport City,1800,1620, 194 ,Double Room,1 large double bed,7.9,Good ,197,No Rooms left,FREE cancellation • No prepayment needed
+351,351,351,Hotel Paramos Inn,0,2750, 330 ,Standard Double Room,1 double bed,7.9,Good ,41,Only 2 rooms left ,
+352,352,352,OYO 76521 Manan Paradise,1384,900, 30 ,Classic Triple Room,"3 beds (1 single, 1 double, 1 large double)",4.3,Plesant ,4,No Rooms left,Free cancellation
+353,353,353,OYO 88840 Mn Residency,1502,751, 45 ,Standard Double Room,2 large double beds,1.0,Plesant ,2,No Rooms left,FREE cancellation • No prepayment needed
+354,354,354,Hoppers Stop Yelahanka,1749,1574, 189 ,Deluxe Double Room,"2 beds (1 single, 1 extra-large double)",8.1,Very good ,33,Only 1 room left ,FREE cancellation • No prepayment needed
+355,355,355,OYO Flagship 9528 Hotel Midas Casita,963,568, 45 ,Standard Double Room,2 double beds,5.4,Plesant ,8,No Rooms left,Free cancellation
+356,356,356,FabHotel Krishna Boutique Marathahalli - Fully Vaccinated Staff,5209,2813, 338 ,Executive Triple Room,1 large double bed,6.9,Plesant ,106,No Rooms left,Free cancellation
+357,357,357,"Holiday Inn Express & Suites Bengaluru Old Madras Road, an IHG Hotel",0,4749, 570 ,Standard Room with Free Buffet Breakfast & 10% Disc on F&B,2 single beds,8.3,Very good ,471,No Rooms left,Free cancellation
+358,358,358,Lazdana Hotel Bangalore,0,4499, 540 ,Superior Double or Twin Room,"3 beds (2 singles, 1 extra-large double)",7.5,Good ,8,No Rooms left,FREE cancellation • No prepayment needed
+359,359,359,Omatra Infantry Road,3799,2089, 251 ,Economy Twin Room,2 single beds,7.5,Good ,98,Only 1 room left ,FREE cancellation • No prepayment needed
+360,360,360,SAS Apartment,0,1800, 216 ,Standard Double Room,1 single bed,8.1,Very good ,93,Only 3 rooms left ,
+361,361,361,OYO 82140 The Kickout,1180,590, 45 ,Deluxe Triple Room,1 large double bed,3.0,Plesant ,3,No Rooms left,FREE cancellation • No prepayment needed
+362,362,362,Hotel Empire Central Street,0,2500, 300 ,Standard Double Room,1 large double bed,7.5,Good ,83,Only 1 room left ,FREE cancellation • No prepayment needed
+363,363,363,OYO 9605 Hotel Golden Inn,1298,649, 45 ,Classic Triple Room,,4.7,Plesant ,43,No Rooms left,Free cancellation
+364,364,364,OYO Flagship 8252 Aayush Corporate Stays,1361,803, 30 ,Classic Triple Room,2 large double beds,4.5,Plesant ,9,Only 3 rooms left ,Free cancellation
+365,365,365,OYO 71574 Hotel Silver House,1230,800, 30 ,Classic Triple Room,1 large double bed,6.4,Plesant ,8,No Rooms left,FREE cancellation • No prepayment needed
+366,366,366,Hotel RR International,0,1440, 173 ,Deluxe Double Room (Non-A/C), 1 double or 2 singles,6.8,Plesant ,381,No Rooms left,Free cancellation
+367,367,367,OYO Townhouse 038 Banaswadi 100Ft Road,2305,1153, 168 ,Classic Triple Room,1 extra-large double bed,3.7,Plesant ,15,No Rooms left,FREE cancellation • No prepayment needed
+368,368,368,OYO 66612 Jai Comforts,926,602, 30 ,Deluxe Double Room,1 large double bed,5.6,Plesant ,5,No Rooms left,Free cancellation
+369,369,369,OYO 6790 Hotel subha Residency,1420,710, 30 ,Triple Room with Bathroom,1 double bed,5.6,Plesant ,27,No Rooms left,FREE cancellation • No prepayment needed
+370,370,370,Octave Hotel & Spa - Marathahalli,0,2275, 273 ,Deluxe Double Room,2 single beds,6.5,Plesant ,273,Only 6 rooms left ,FREE cancellation • No prepayment needed
+371,371,371,Hotel City Centre Residency,0,2750, 470 ,Deluxe Room,1 double bed,6.3,Plesant ,20,Only 1 room left ,Free cancellation
+372,372,372,Grand Choice,0,1400, 168 ,Deluxe Double Room,1 large double bed,5.7,Plesant ,69,Only 1 room left ,FREE cancellation • No prepayment needed
+373,373,373,"OYO TOWNHOUSE 014, MG Road",6302,3151, 438 ,Classic Triple Room,1 large double bed,5.2,Plesant ,27,Only 1 room left ,FREE cancellation • No prepayment needed
+374,374,374,Hotel Swagath,0,1990, 239 ,Standard Double or Twin Room with Fan, 1 double or 2 singles,8.3,Very good ,7,No Rooms left,FREE cancellation • No prepayment needed
+375,375,375,Mastiff Infantry Bengaluru,0,3500, 420 ,Superior Double or Twin Room,"2 beds (1 single, 1 extra-large double)",7.0,Good ,3,Only 4 rooms left ,
+376,376,376,Rathna Mahal By WB Inn,1100,990,Includes ,Deluxe Double Room with Fan,1 large double bed,5.4,Plesant ,16,Only 5 rooms left ,
+377,377,377,FabHotel Mayuri Residency,4450,2537, 334 ,Deluxe Room,1 double bed,6.9,Plesant ,66,Only 2 rooms left ,Free cancellation
+378,378,378,FabHotel GR Lake View,3124,1687, 202 ,Deluxe Room,1 large double bed,8.1,Very good ,85,No Rooms left,Free cancellation
+379,379,379,SM Rooms HSR Layout,0,1823, 219 ,Deluxe Double Room,1 double bed,6.3,Plesant ,10,Only 4 rooms left ,
+380,380,380,Springs Hotels and Spa,0,3299, 396 ,Studio,1 large double bed,6.4,Plesant ,96,Only 1 room left ,
+381,381,381,Treebo Trend Greenwood Premier Suites Old Airport Road,4391,2196, 263 ,Standard Double Room,1 double bed,6.8,Plesant ,175,Only 7 rooms left ,Free cancellation
+382,382,382,Capital O 70156 Victorian Comforts,2141,1071, 158 ,Deluxe Triple Room,1 large double bed,3.4,Plesant ,5,Only 2 rooms left ,Free cancellation
+383,383,383,Clyford Suites,0,2800, 336 ,Standard Apartment,"Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 46m²2 beds (1 extra-large double, 1 large double)",6.7,Plesant ,120,Only 1 left ,FREE cancellation • No prepayment needed
+384,384,384,HOTEL ROYAL STAR,0,1529, 183 ,Deluxe King Room,1 extra-large double bed,5.8,Plesant ,5,No Rooms left,
+385,385,385,OYO 74173 Shree Ganesh Regency,1026,667, 30 ,Classic Triple Room,1 large double bed,5.3,Plesant ,15,No Rooms left,Free cancellation
+386,386,386,Atlaantic Inn,1700,1530, 184 ,Executive Room Non AC,Multiple bed types,6.1,Plesant ,58,Only 1 room left ,FREE cancellation • No prepayment needed
+387,387,387,4 Seasons Suites,0,2615, 314 ,Superior King Room,1 extra-large double bed,7.0,Good ,124,Only 2 rooms left ,FREE cancellation • No prepayment needed
+388,388,388,Treebo Trend Elmas Boutique Hotel Yallappa Chetty Layout,4749,2374, 285 ,Standard Double Room,1 large double bed,6.1,Plesant ,31,No Rooms left,Free cancellation
+389,389,389,Fly Inn,0,2250, 270 ,Deluxe Double Room,1 extra-large double bed,6.9,Plesant ,12,No Rooms left,FREE cancellation • No prepayment needed
+390,390,390,OYO 71574 Hotel Silver House,1230,800, 30 ,Classic Triple Room,1 large double bed,6.4,Plesant ,8,No Rooms left,FREE cancellation • No prepayment needed
+391,391,391,MySpace Triton Suites,5850,3803, 456 ,Standard Double Room,1 large double bed,8.9,Fabulous ,14,Only 3 rooms left ,
+392,392,392,Treebo Trend White Inn Koramangala,5294,2647, 318 ,[Sanitized] Deluxe Double Room,1 extra-large double bed,6.4,Plesant ,69,Only 5 rooms left ,Free cancellation
+393,393,393,hotel fortune city,0,1600, 192 ,Standard Double Room,1 double bed,7.5,Good ,46,Only 2 rooms left ,FREE cancellation • No prepayment needed
+394,394,394,SREE PARIJATHA GRAND,0,4200, 504 ,Standard Double Room,1 large double bed,0.0,No Review,0,Only 4 rooms left ,
+395,395,395,Nice Stay The Business Hotel,3699,3070, 368 ,Deluxe King Room,1 large double bed,9.0,Superb ,19,No Rooms left,FREE cancellation • No prepayment needed
+396,396,396,Collection O 3175 Pluspoint Suites,2373,1187, 187 ,Deluxe Triple Room,1 extra-large double bed,5.2,Plesant ,14,Only 5 rooms left ,Free cancellation
+397,397,397,The Club,0,3200, 384 ,Standard Double or Twin Room, 1 double or 2 singles,4.8,Plesant ,11,Only 2 rooms left ,Free cancellation
+398,398,398,Capital O 70991 Prime Square,2141,1071, 173 ,Standard Double Room,1 large double bed,5.4,Plesant ,16,No Rooms left,Free cancellation
+399,399,399,Elephant Stays Marthahalli - Fully Vaccinated Staff,0,3050, 366 ,Standard Double Room, 1 double or 2 singles,7.1,Good ,65,No Rooms left,Free cancellation
+400,400,400,Hotel U.T.ELITE,0,1530, 184 ,Double Room,1 extra-large double bed,5.8,Plesant ,21,No Rooms left,
+401,401,401,Capital O 70156 Victorian Comforts,2141,1071, 158 ,Deluxe Triple Room,1 large double bed,3.4,Plesant ,5,Only 2 rooms left ,Free cancellation
+402,402,402,HOTEL URS PALACE,0,1234, 148 ,Deluxe Room,1 extra-large double bed,6.3,Plesant ,11,No Rooms left,FREE cancellation • No prepayment needed
+403,403,403,OYO Flagship 29293 Athithi Comforts,1058,529, 30 ,Standard Double Room,2 large double beds,4.5,Plesant ,15,No Rooms left,Free cancellation
+404,404,404,"Regenta Place Bangalore, Cunningham Road",3589,3410, 409 ,Standard Room with 15% Discount on Food & Beverages, 1 double or 2 singles,6.1,Plesant ,159,No Rooms left,FREE cancellation • No prepayment needed
+405,405,405,CAPITAL O 432 Hotel Victoria Heights,1950,1228, 177 ,Standard Double Room,2 double beds,5.7,Plesant ,16,No Rooms left,Free cancellation
+406,406,406,Cirrus Suites,0,1701, 204 ,Deluxe Double or Twin Room with Balcony,1 extra-large double bed,5.7,Plesant ,4,Only 2 rooms left ,
+407,407,407,SPOT ON 65593 Yatra Inn,844,506, 30 ,Triple Room with Bathroom,1 large double bed,5.9,Plesant ,26,No Rooms left,Free cancellation
+408,408,408,Treebo Trip Akshaya Mayflower Vijaya Bank Layout,3809,1905, 229 ,[Sanitized] Standard Double Room,1 extra-large double bed,7.3,Good ,106,Only 2 rooms left ,Free cancellation
+409,409,409,Elephant Stays Marthahalli - Fully Vaccinated Staff,0,3050, 366 ,Standard Double Room, 1 double or 2 singles,7.1,Good ,65,No Rooms left,Free cancellation
+410,410,410,The Capitol,0,6000, 720 ,Club Double or Twin Room, 1 double or 2 singles,2.8,Plesant ,14,Only 5 rooms left ,FREE cancellation • No prepayment needed
+411,411,411,Treebo Trend Cocoon Suites Kalyan Nagar,4568,2284, 274 ,Deluxe Double Room,1 large double bed,7.8,Good ,72,Only 1 room left ,Free cancellation
+412,412,412,Treebo Trend Sai Arra Bangalore Airport Hotel,3775,1887, 226 ,Standard Double Room,1 double bed,8.0,Very good ,12,No Rooms left,Free cancellation
+413,413,413,SREE PARIJATHA GRAND,0,4200, 504 ,Standard Double Room,1 large double bed,0.0,No Review,0,Only 4 rooms left ,
+414,414,414,DELCO RESIDENCY,0,990,Includes ,Deluxe Double Room,1 single bed,6.1,Plesant ,16,Only 5 rooms left ,FREE cancellation • No prepayment needed
+415,415,415,Sterling Living Space - Residency Road,0,3500, 420 ,Executive Double Room,1 extra-large double bed,7.1,Good ,17,Only 1 room left ,
+416,416,416,K C Residency,0,1300, 156 ,Standard Double Room,1 large double bed,6.5,Plesant ,21,No Rooms left,
+417,417,417,La Sara Pride Formerly Known as Nandhana Pride,0,3510, 421 ,Deluxe Room,1 large double bed,6.3,Plesant ,16,Only 3 rooms left ,
+418,418,418,Professionals Pride PG,725,580,Includes ,Double Room with Shared Bathroom,2 single beds,6.2,Plesant ,54,Only 1 room left ,
+419,419,419,OYO Flagship 81248 Blooms Residency,2370,1185, 187 ,Classic Triple Room,1 large double bed,7.0,Good ,27,No Rooms left,FREE cancellation • No prepayment needed
+420,420,420,Shoba Tulip Hebbal,1499,1349, 162 ,Executive Room Non AC,1 double bed,6.8,Plesant ,31,Only 5 rooms left ,FREE cancellation • No prepayment needed
+421,421,421,Hotel Virat Siridarshni,0,3000, 360 ,Premium,2 single beds,10.0,Exceptional ,1,Only 1 room left ,FREE cancellation • No prepayment needed
+422,422,422,Mistyblue Serviced Apartments,0,6650, 798 ,Two-Bedroom Apartment,Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 111m²2 double beds,8.6,Fabulous ,173,Only 3 left ,FREE cancellation • No prepayment needed
+423,423,423,Grand Suites,0,1260, 151 ,Deluxe Double Room with Balcony,1 double bed,6.6,Plesant ,7,Only 5 rooms left ,
+424,424,424,Rosewood International Hotel,3700,2960, 355 ,Executive Room,"2 beds (1 single, 1 large double)",6.5,Plesant ,15,Only 5 rooms left ,FREE cancellation • No prepayment needed
+425,425,425,Hotel UR Comforts Jayanagar,0,1540, 185 ,Deluxe Room,1 extra-large double bed,7.0,Good ,38,No Rooms left,FREE cancellation • No prepayment needed
+426,426,426,Sterlings Mac Hotel & Suites,0,7300, 876 ,Deluxe Room,Multiple bed types,7.7,Good ,379,No Rooms left,Free cancellation
+427,427,427,OYO 74173 Shree Ganesh Regency,1026,667, 30 ,Classic Triple Room,1 large double bed,5.3,Plesant ,15,No Rooms left,Free cancellation
+428,428,428,Dunsvirk Inn- Bengaluru,5945,4756, 571 ,Deluxe ,1 extra-large double bed,3.3,Plesant ,4,Only 3 rooms left ,FREE cancellation • No prepayment needed
+429,429,429,GAVISHREERESIDENCY,0,2600, 312 ,Deluxe Double Room,1 large double bed,8.0,Very good ,9,No Rooms left,
+430,430,430,Al Noor Palace Business Class Hotel,0,4050, 486 ,Deluxe Double Room,1 extra-large double bed,8.6,Fabulous ,73,Only 4 rooms left ,
+431,431,431,VEERDENCY LUXURY RESORT,0,3999, 480 ,Deluxe Queen Room,1 double bed,6.4,Plesant ,7,Only 2 rooms left ,FREE cancellation • No prepayment needed
+432,432,432,The Continentti Whitefield,4249,3399, 408 ,Standard King Room,1 extra-large double bed,8.2,Very good ,75,Only 2 rooms left ,FREE cancellation • No prepayment needed
+433,433,433,Vajra Heritage,3350,2077, 249 ,Economy Double Room,2 single beds,5.7,Plesant ,13,No Rooms left,
+434,434,434,The Nines Business Hotel,3999,3199, 384 ,Standard Suite,Private suite1 double bed,7.8,Good ,14,Only 7 left ,FREE cancellation • No prepayment needed
+435,435,435,Livancia Ayra,0,3000, 360 ,Superior King or Twin Room,2 single beds,7.6,Good ,50,No Rooms left,FREE cancellation • No prepayment needed
+436,436,436,Octave Vels Grand Hotel,0,1400, 168 ,Deluxe Double Room,1 large double bed,10.0,Exceptional ,1,No Rooms left,FREE cancellation • No prepayment needed
+437,437,437,SRI VIJAYA PALACE LODGING,0,600,Includes ,Deluxe Double Room,1 double bed,7.2,Good ,117,No Rooms left,FREE cancellation • No prepayment needed
+438,438,438,MySpace Hotels Silverstar,4400,3168, 380 ,classic, 1 double or 2 singles,7.8,Good ,144,No Rooms left,FREE cancellation • No prepayment needed
+439,439,439,Sunrise Triangles,0,1399, 168 ,Standard Double Room,1 large double bed,0.0,No Review,0,Only 5 rooms left ,FREE cancellation • No prepayment needed
+440,440,440,Lavens-The Boutique Residence &Banquet-Fully Vaccinated Staff,4166,3125, 375 ,Deluxe Room,1 extra-large double bed,5.8,Plesant ,35,No Rooms left,Free cancellation
+441,441,441,THE NISARGA GRAND,0,2500, 300 ,Standard Double Room with Fan,1 double bed,7.9,Good ,20,Only 1 room left ,
+442,442,442,Stayhome Classic,3526,1657, 199 ,Standard Studio,Private studio • 1 bathroom • 1 kitchen • 10m²1 large double bed,8.6,Fabulous ,32,No Rooms left,FREE cancellation • No prepayment needed
+443,443,443,Mistyblue Suites,0,4675, 561 ,Two-Bedroom Apartment,"Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 139m²4 beds (2 singles, 1 sofa bed, 1 large double)",8.6,Fabulous ,75,Only 5 left ,FREE cancellation • No prepayment needed
+444,444,444,Hotel Vellara,0,2500, 300 ,Double Room,2 single beds,8.1,Very good ,137,No Rooms left,FREE cancellation • No prepayment needed
+445,445,445,Hotel Phoenix,0,2160, 259 ,Standard Double Room,1 large double bed,2.5,Plesant ,6,No Rooms left,
+446,446,446,Empark,2600,1560, 187 ,Economy Double Room,1 double bed,6.5,Plesant ,37,Only 2 rooms left ,Free cancellation
+447,447,447,Rosary Meadows 1 BHK Studio Apartment Manyata Tech Park,0,2100, 252 ,Studio Apartment,"Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 46m²2 beds (1 double, 1 sofa bed)",8.0,Very good ,7,Only 1 left ,FREE cancellation • No prepayment needed
+448,448,448,Hotel Monarch Stays Gandhi Nagar,1950,1755, 211 ,Standard Double Room,1 extra-large double bed,0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+449,449,449,Shoba Elite,2549,2294, 275 ,Standard Double Room,"2 beds (1 double, 1 futon)",7.5,Good ,43,No Rooms left,
+450,450,450,SRI VIJAYA PALACE LODGING,0,600,Includes ,Deluxe Double Room,1 double bed,7.2,Good ,117,No Rooms left,FREE cancellation • No prepayment needed
+451,451,451,MySpace Hotels Silverstar,4400,3168, 380 ,classic, 1 double or 2 singles,7.8,Good ,144,No Rooms left,FREE cancellation • No prepayment needed
+452,452,452,Sunrise Triangles,0,1399, 168 ,Standard Double Room,1 large double bed,0.0,No Review,0,Only 5 rooms left ,FREE cancellation • No prepayment needed
+453,453,453,Lavens-The Boutique Residence &Banquet-Fully Vaccinated Staff,4166,3125, 375 ,Deluxe Room,1 extra-large double bed,5.8,Plesant ,35,No Rooms left,Free cancellation
+454,454,454,THE NISARGA GRAND,0,2500, 300 ,Standard Double Room with Fan,1 double bed,7.9,Good ,20,Only 1 room left ,
+455,455,455,Stayhome Classic,3526,1657, 199 ,Standard Studio,Private studio • 1 bathroom • 1 kitchen • 10m²1 large double bed,8.6,Fabulous ,32,No Rooms left,FREE cancellation • No prepayment needed
+456,456,456,Mistyblue Suites,0,4675, 561 ,Two-Bedroom Apartment,"Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 139m²4 beds (2 singles, 1 sofa bed, 1 large double)",8.6,Fabulous ,75,Only 5 left ,FREE cancellation • No prepayment needed
+457,457,457,Hotel Phoenix,0,2160, 259 ,Standard Double Room,1 large double bed,2.5,Plesant ,6,No Rooms left,
+458,458,458,Empark,2600,1560, 187 ,Economy Double Room,1 double bed,6.5,Plesant ,37,Only 2 rooms left ,Free cancellation
+459,459,459,Rosary Meadows 1 BHK Studio Apartment Manyata Tech Park,0,2100, 252 ,Studio Apartment,"Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 46m²2 beds (1 double, 1 sofa bed)",8.0,Very good ,7,Only 1 left ,FREE cancellation • No prepayment needed
+460,460,460,Hotel Monarch Stays Gandhi Nagar,1950,1755, 211 ,Standard Double Room,1 extra-large double bed,0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+461,461,461,Shoba Elite,2549,2294, 275 ,Standard Double Room,"2 beds (1 double, 1 futon)",7.5,Good ,43,No Rooms left,
+462,462,462,Siri Delight,0,1679, 202 ,Queen Room,1 large double bed,7.6,Good ,15,No Rooms left,FREE cancellation • No prepayment needed
+463,463,463,OYO Flagship 18338 White Fort,1098,549, 30 ,Classic Triple Room,1 large double bed,4.1,Plesant ,14,No Rooms left,Free cancellation
+464,464,464,Golden Lotus Bangalore Boutique Suites,5200,4160, 499 ,Deluxe Double Room,Multiple bed types,7.1,Good ,187,No Rooms left,FREE cancellation • No prepayment needed
+465,465,465,I V Sanctum Hotel,0,2800, 336 ,Standard Double Room,Multiple bed types,6.6,Plesant ,49,No Rooms left,FREE cancellation • No prepayment needed
+466,466,466,OYO 11916 Varcity Plaza,1250,625, 45 ,Classic Triple Room,3 double beds,4.4,Plesant ,20,No Rooms left,Free cancellation
+467,467,467,Greens Residency,836,669,Includes ,Budget Double Room,1 double bed,6.2,Plesant ,77,Only 5 rooms left ,
+468,468,468,OYO Home 80784 Compact Studio KR Puram,1232,788, 30 ,Apartment,Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 16m²1 double bed,6.1,Plesant ,21,Only 3 left ,Free cancellation
+469,469,469,YN Hotels,3499,2799, 336 ,Deluxe Room,1 large double bed,6.9,Plesant ,11,Only 5 rooms left ,Free cancellation
+470,470,470,The Corporate Comforts,0,1500, 180 ,Standard Double Room with Fan,1 double bed,5.1,Plesant ,42,Only 7 rooms left ,FREE cancellation • No prepayment needed
+471,471,471,Grand Empark,0,1200, 144 ,Standard Double Room with Fan,1 double bed,8.1,Very good ,50,Only 6 rooms left ,FREE cancellation • No prepayment needed
+472,472,472,Capital O 88646 Sri Sapthagiri Comforts,1812,906, 45 ,Classic Triple Room,1 large double bed,4.0,Plesant ,2,No Rooms left,FREE cancellation • No prepayment needed
+473,473,473,Collection O 3175 Pluspoint Suites,2373,1187, 187 ,Deluxe Triple Room,1 extra-large double bed,5.2,Plesant ,14,Only 5 rooms left ,Free cancellation
+474,474,474,Comet Hotel,0,3199, 384 ,Deluxe King Room,1 large double bed,4.6,Plesant ,91,Only 4 rooms left ,FREE cancellation • No prepayment needed
+475,475,475,Brunton Heights Executive Suites,0,4704, 564 ,Executive Suite,"Private suite • 1 bedroom • 1 living room • 1 bathroom • 42m²3 beds (2 singles, 1 sofa bed)",8.6,Fabulous ,11,Only 1 left ,FREE cancellation • No prepayment needed
+476,476,476,Treebo Trend Greenwood Premier Suites Old Airport Road,4391,2196, 263 ,Standard Double Room,1 double bed,6.8,Plesant ,175,Only 7 rooms left ,Free cancellation
+477,477,477,SPOT ON 83080 Hotel Aryan Residency,712,356, 45 ,Triple Room with Bathroom,1 large double bed,4.9,Plesant ,8,No Rooms left,FREE cancellation • No prepayment needed
+478,478,478,SPOT ON 75492 The Royal Comfort,1984,1290, 45 ,Triple Room with Bathroom,1 large double bed,6.9,Plesant ,17,No Rooms left,Free cancellation
+479,479,479,Mojatel By Icon,4099,3484, 418 ,Superior Twin Room,2 single beds,6.5,Plesant ,55,Only 6 rooms left ,FREE cancellation • No prepayment needed
+480,480,480,Vanusa Residency,0,2800, 336 ,Deluxe Double or Twin Room,1 single bed,7.9,Good ,45,Only 3 rooms left ,
+481,481,481,OYO 74173 Shree Ganesh Regency,1332,866, 30 ,Classic Triple Room,1 large double bed,5.3,Plesant ,15,No Rooms left,Free cancellation
+482,482,482,OYO 2561 Hotel Resida Service Apartments,2154,1077, 174 ,Standard Double Room,1 large double bed,6.7,Plesant ,51,Only 1 room left ,Free cancellation
+483,483,483,Icon Business Hotel by Bhagini,0,4699, 564 ,Studio Room,Private studio • 1 bathroom • 20m² 1 double or 2 singles,7.0,Good ,134,Only 3 left ,
+484,484,484,krishna grand inn,0,1200, 144 ,Deluxe Double Room,2 single beds,3.0,Plesant ,6,No Rooms left,
+485,485,485,Metro Stays,0,1150, 138 ,Deluxe Triple Room,1 double bed,7.5,Good ,4,Only 5 rooms left ,
+486,486,486,Treebo Trend The Sai Leela Suites R T Nagar,4388,2194, 263 ,Standard Double Room,1 extra-large double bed,7.7,Good ,70,Only 5 rooms left ,Free cancellation
+487,487,487,OYO 66612 Jai Comforts,1202,781, 30 ,Deluxe Double Room,1 large double bed,5.6,Plesant ,5,No Rooms left,Free cancellation
+488,488,488,OYO 14203 Chetana Inn,2102,1051, 171 ,Standard Double Room,1 large double bed,6.7,Plesant ,22,No Rooms left,Free cancellation
+489,489,489,Collection O 77042 Tetrad Hotel,3914,1957, 280 ,Budget Double Room,1 large double bed,6.4,Plesant ,75,No Rooms left,Free cancellation
+490,490,490,Lusia Inn,0,999,Includes ,Standard Double Room,1 extra-large double bed,6.5,Plesant ,42,Only 3 rooms left ,
+491,491,491,Starlit Suites,0,4544, 545 ,Premium Studio,Private studio • 1 bathroom • 62m²1 large double bed,7.4,Good ,13,No Rooms left,Free cancellation
+492,492,492,Treebo Trend Akshaya Lalbagh Inn Ashoka Pillar,4917,2458, 295 ,[Sanitized] Standard  Double Room, 1 double or 2 singles,6.8,Plesant ,325,No Rooms left,Free cancellation
+493,493,493,"Keys Select by Lemon Tree Hotels, Whitefield, Bengaluru",0,8612, 1550 ,Standard  Room,1 large double bed,6.3,Plesant ,77,No Rooms left,
+494,494,494,Hotel Supreme Suites,0,2250, 270 ,Budget Double Room,1 double bed,7.7,Good ,4,Only 6 rooms left ,FREE cancellation • No prepayment needed
+495,495,495,Vennela Hotel Apartments,0,2600, 312 ,Deluxe Double Room,1 single bed,9.6,Exceptional ,5,Only 1 room left ,FREE cancellation • No prepayment needed
+496,496,496,Hilton Bengaluru Embassy Manyata Business Park,0,11938, 2149 ,Deluxe King Room,1 extra-large double bed,8.0,Very good ,2,No Rooms left,FREE cancellation • No prepayment needed
+497,497,497,OYO 87278 Royal Grand Residency,864,432, 30 ,Standard Double Room,1 large double bed,1.0,Plesant ,3,No Rooms left,FREE cancellation • No prepayment needed
+498,498,498,Stay for Uptu 10 pax in a 3BH @ Frazer Town For Parties/Event,0,1499, 180 ,Budget Double Room,1 large double bed,6.2,Plesant ,9,No Rooms left,FREE cancellation • No prepayment needed
+499,499,499,HOTEL SHABARI GATE,0,900,Includes ,Triple Room,"2 beds (1 single, 1 double)",6.9,Plesant ,82,Only 1 room left ,FREE cancellation • No prepayment needed
+500,500,500,Ring View Hotels - Hebbal,2199,1979, 237 ,Standard Double Room, 1 double or 2 singles,8.1,Very good ,75,Only 3 rooms left ,FREE cancellation • No prepayment needed
+501,501,501,Ginger Bangalore- Inner Ring Road,0,3399, 408 ,Day use Room - Same day check in and check out - 9 am to 5 pm,1 double bed,5.1,Plesant ,20,No Rooms left,FREE cancellation • No prepayment needed
+502,502,502,Our Native Village,9000,7200, 864 ,Deluxe Room,1 double bed,7.4,Good ,49,Only 2 rooms left ,
+503,503,503,Mistyblue Stays,5700,5415, 650 ,Two-Bedroom Apartment,Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 102m²2 large double beds,8.5,Very good ,17,Only 4 left ,FREE cancellation • No prepayment needed
+504,504,504,Temple Tree Hotel,0,5800, 696 ,Executive Room,1 large double bed,8.1,Very good ,93,Only 1 room left ,FREE cancellation • No prepayment needed
+505,505,505,Treebo Trend Kings Suits HSR Layout,5736,2868, 344 ,Standard Double Room,1 large double bed,6.9,Plesant ,72,Only 2 rooms left ,Free cancellation
+506,506,506,Oakwood Residence Prestige Whitefield Bangalore,0,8200, 1476 ,Studio Superior,Private studio • 1 bathroom • 1 kitchen • 45m²1 large double bed,8.4,Very good ,77,Only 1 left ,
+507,507,507,Hotel Aurainn,0,1500, 180 ,Deluxe Double or Twin Room,1 extra-large double bed,3.7,Plesant ,3,Only 5 rooms left ,FREE cancellation • No prepayment needed
+508,508,508,Treebo Trend Classio Richmond Shanti Nagar,4909,2455, 295 ,Standard Double Room,1 double bed,6.9,Plesant ,60,No Rooms left,Free cancellation
+509,509,509,FabHotel Emara Boutique - Fully Vaccinated Staff,4584,2475, 297 ,Deluxe Room,1 large double bed,6.5,Plesant ,84,Only 4 rooms left ,Free cancellation
+510,510,510,OYO Townhouse 238 Ulssor,4005,2003, 300 ,Standard Double Room,1 large double bed,6.6,Plesant ,25,No Rooms left,FREE cancellation • No prepayment needed
+511,511,511,Hotel surya dev residency,0,2450, 294 ,Superior Deluxe Double or Twin Room ,1 extra-large double bed,7.8,Good ,67,No Rooms left,
+512,512,512,Oasis Executive Suites,0,3500, 420 ,Deluxe Double or Twin Room,1 double bed,8.6,Fabulous ,56,Only 2 rooms left ,
+513,513,513,Classia Suites,2249,1574, 189 ,Deluxe Twin Room,1 large double bed,5.9,Plesant ,48,Only 3 rooms left ,
+514,514,514,FabExpress Oriental Suite Banashankari,2081,1124, 135 ,Deluxe Double Room,1 double bed,6.7,Plesant ,52,Only 1 room left ,Free cancellation
+515,515,515,FabExpress Oriental Suites BTM Layout,3438,1857, 223 ,[Sanitised]Deluxe Room,1 large double bed,7.5,Good ,204,No Rooms left,Free cancellation
+516,516,516,juSTa Off MG Road,5699,5129, 615 ,Deluxe Room,1 extra-large double bed,7.4,Good ,53,Only 2 rooms left ,Free cancellation
+517,517,517,VAISHNAVI RESIDENCY,0,2520, 302 ,Deluxe Double Room,1 large double bed,7.0,Good ,4,No Rooms left,
+518,518,518,Collection O 12684 Compact Green View,2623,1312, 202 ,Classic Triple Room,1 large double bed,7.3,Good ,23,Only 4 rooms left ,Free cancellation
+519,519,519,OYO 24259 Hotel Blue Inn,1230,714, 45 ,Classic Triple Room,1 large double bed,4.2,Plesant ,14,No Rooms left,Free cancellation
+520,520,520,Davanam Sarovar Portico Suites,11000,9900, 1782 ,Deluxe Suite,"Private suite • 1 bedroom • 1 living room • 1 bathroom • 88m²3 beds (2 singles, 1 sofa bed)",8.3,Very good ,120,Only 3 left ,FREE cancellation • No prepayment needed
+521,521,521,"DBR SUITES, Sarjapur Road",3584,2222, 267 ,Deluxe Double Room,1 large double bed,4.4,Plesant ,5,No Rooms left,FREE cancellation • No prepayment needed
+522,522,522,OYO 63711 Chetana Clove,1599,959, 45 ,Small Double Room,1 large double bed,6.0,Plesant ,9,No Rooms left,Free cancellation
+523,523,523,Dhuvan Residency,950,713,Includes ,Double Room,"10 beds (4 singles, 5 doubles, 1 extra-large double)",0.0,No Review,0,Only 4 rooms left ,FREE cancellation • No prepayment needed
+524,524,524,Elys'ees Serviced Suites,0,2475, 297 ,Deluxe Studio,"Private suite • 1 bedroom • 1 living room • 1 bathroom • 40m²2 beds (1 sofa bed, 1 large double)",9.0,Superb ,4,No Rooms left,FREE cancellation • No prepayment needed
+525,525,525,The Nines Business Hotel,3999,3199, 384 ,Standard Suite,Private suite1 double bed,7.8,Good ,14,Only 7 left ,FREE cancellation • No prepayment needed
+526,526,526,Capital O 61292 Manyata Sterling,1734,867, 45 ,Deluxe Double Room,1 large double bed,6.0,Plesant ,42,No Rooms left,Free cancellation
+527,527,527,Livancia Ayra,0,3000, 360 ,Superior King or Twin Room,2 single beds,7.6,Good ,50,No Rooms left,FREE cancellation • No prepayment needed
+528,528,528,SRI VIJAYA PALACE LODGING,0,600,Includes ,Deluxe Double Room,1 double bed,7.2,Good ,117,No Rooms left,FREE cancellation • No prepayment needed
+529,529,529,Octave Vels Grand Hotel,0,1400, 168 ,Deluxe Double Room,1 large double bed,10.0,Exceptional ,1,No Rooms left,FREE cancellation • No prepayment needed
+530,530,530,Lavens-The Boutique Residence &Banquet-Fully Vaccinated Staff,4166,3125, 375 ,Deluxe Room,1 extra-large double bed,5.8,Plesant ,35,No Rooms left,Free cancellation
+531,531,531,Cozy Duo,0,2500, 300 ,One-Bedroom Apartment,Entire apartment • 1 bedroom • 1 bathroom • 139m²1 double bed,1.0,Plesant ,1,Only 2 left ,FREE cancellation • No prepayment needed
+532,532,532,Penthouse 2.0,0,2479, 298 ,Double Room,"3 beds (2 doubles, 1 large double)",10.0,Exceptional ,1,Only 1 room left ,FREE cancellation • No prepayment needed
+533,533,533,THE NISARGA GRAND,0,2500, 300 ,Standard Double Room with Fan,1 double bed,7.9,Good ,20,Only 1 room left ,
+534,534,534,Stayhome Classic,3526,1657, 199 ,Standard Studio,Private studio • 1 bathroom • 1 kitchen • 10m²1 large double bed,8.6,Fabulous ,32,No Rooms left,FREE cancellation • No prepayment needed
+535,535,535,Park INN Hospitality Apartment,0,3999, 480 ,Deluxe Double Room,1 double bed,7.0,Good ,2,Only 2 rooms left ,FREE cancellation • No prepayment needed
+536,536,536,Treebo Trend Greenwood Premier Suites Old Airport Road,4391,2196, 263 ,Standard Double Room,1 double bed,6.8,Plesant ,175,Only 7 rooms left ,Free cancellation
+537,537,537,Hotel Phoenix,0,2160, 259 ,Standard Double Room,1 large double bed,2.5,Plesant ,6,No Rooms left,
+538,538,538,Empark,2600,1560, 187 ,Economy Double Room,1 double bed,6.5,Plesant ,37,Only 2 rooms left ,Free cancellation
+539,539,539,Capital Residency,0,2400, 288 ,[Sanitised]Deluxe Room,1 large double bed,7.4,Good ,51,Only 3 rooms left ,FREE cancellation • No prepayment needed
+540,540,540,OYO 1161 Hotel Golden Residency,1900,1159, 169 ,Classic Triple Room,1 extra-large double bed,3.5,Plesant ,2,No Rooms left,Free cancellation
+541,541,541,Rosary Meadows 1 BHK Studio Apartment Manyata Tech Park,0,2100, 252 ,Studio Apartment,"Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 46m²2 beds (1 double, 1 sofa bed)",8.0,Very good ,7,Only 1 left ,FREE cancellation • No prepayment needed
+542,542,542,HOTEL SHABARI GATE,0,900,Includes ,Triple Room,"2 beds (1 single, 1 double)",6.9,Plesant ,82,Only 1 room left ,FREE cancellation • No prepayment needed
+543,543,543,Shoba Elite,2549,2294, 275 ,Standard Double Room,"2 beds (1 double, 1 futon)",7.5,Good ,43,No Rooms left,
+544,544,544,Mojatel By Icon,4099,3484, 418 ,Superior Twin Room,2 single beds,6.5,Plesant ,55,Only 6 rooms left ,FREE cancellation • No prepayment needed
+545,545,545,Golden Lotus Bangalore Boutique Suites,5200,4160, 499 ,Deluxe Double Room,Multiple bed types,7.1,Good ,187,No Rooms left,FREE cancellation • No prepayment needed
+546,546,546,OYO 15392 Sri Sai Guru Comforts,1230,800, 30 ,Standard Double Room,2 large double beds,6.8,Plesant ,18,No Rooms left,Free cancellation
+547,547,547,I V Sanctum Hotel,0,2800, 336 ,Standard Double Room,Multiple bed types,6.6,Plesant ,49,No Rooms left,FREE cancellation • No prepayment needed
+548,548,548,Vintage inn by Pepe Hospitality,0,1980, 238 ,Standard Double Room,1 extra-large double bed,8.0,Very good ,1,No Rooms left,
+549,549,549,OYO Home 80784 Compact Studio KR Puram,1232,788, 30 ,Apartment,Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 16m²1 double bed,6.1,Plesant ,21,Only 3 left ,Free cancellation
+550,550,550,Treebo Trend Hotel Sampradaya Bistro Mailasandra,6736,3368, 404 ,[Sanitized] Deluxe Double Room,1 large double bed,7.9,Good ,103,Only 1 room left ,Free cancellation
+551,551,551,Treebo Trip Galaxy Suites Hebbal,3690,1845, 221 ,Standard Double Room,1 large double bed,7.4,Good ,27,No Rooms left,Free cancellation
+552,552,552,OYO 60746 Kings Suites,3909,1954, 265 ,Deluxe Triple Room,1 extra-large double bed,5.6,Plesant ,30,No Rooms left,Free cancellation
+553,553,553,FabHotel Tej,5628,3039, 365 ,Deluxe Room,1 large double bed,6.5,Plesant ,13,No Rooms left,Free cancellation
+554,554,554,Park INN Hospitality Apartment,0,3999, 480 ,Deluxe Double Room,1 double bed,7.0,Good ,2,Only 2 rooms left ,FREE cancellation • No prepayment needed
+555,555,555,My home paying guest,0,1400, 268 ,Small Double Room,"3 beds (1 single, 2 doubles)",8.8,Fabulous ,6,Only 3 rooms left ,
+556,556,556,Lakequile,0,4500, 540 ,Two-Bedroom Apartment,Entire apartment • 2 bedrooms • 2 bathrooms • 186m²2 large double beds,0.0,No Review,0,Only 2 left ,FREE cancellation • No prepayment needed
+557,557,557,Clyford Suites,0,2800, 336 ,Standard Apartment,"Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 46m²2 beds (1 extra-large double, 1 large double)",6.7,Plesant ,120,Only 1 left ,FREE cancellation • No prepayment needed
+558,558,558,CAPITAL O75993 Hotel Shanti Nivas,2107,1054, 171 ,Standard Double or Twin Room,1 double bed,4.5,Plesant ,4,No Rooms left,Free cancellation
+559,559,559,OYO 69693 The Royal Park,1503,977, 30 ,Classic Triple Room,1 large double bed,5.7,Plesant ,21,No Rooms left,Free cancellation
+560,560,560,Hotel Dvaraka Inn,2599,2339, 281 ,Standard Double Room,1 large double bed,7.1,Good ,25,No Rooms left,Free cancellation
+561,561,561,The City Living,0,2500, 300 ,Deluxe King Room, 1 double or 2 singles,6.6,Plesant ,32,No Rooms left,Free cancellation
+562,562,562,Treebo Trip Guru Comforts IIM Bangalore,3351,1676, 201 ,Standard Double Room,1 large double bed,7.2,Good ,39,Only 6 rooms left ,Free cancellation
+563,563,563,S S Residency Sr Nagar kanteerava stadium mallya hospital vfs global tech park Bangalore,0,950,Includes ,Deluxe Double Room,2 single beds,5.3,Plesant ,24,Only 3 rooms left ,FREE cancellation • No prepayment needed
+564,564,564,Treebo Trip Omkar Inn,2704,1352, 192 ,Standard Double Room,1 extra-large double bed,7.7,Good ,16,No Rooms left,Free cancellation
+565,565,565,Hotel Sanman Gardenia,0,4000, 480 ,Deluxe Studio,Private studio • 1 bathroom • 23m²1 single bed,6.3,Plesant ,17,Only 5 left ,FREE cancellation • No prepayment needed
+566,566,566,Collection O 14320 Pride Manyata,994,497, 45 ,Classic Triple Room,1 large double bed,5.1,Plesant ,12,No Rooms left,Free cancellation
+567,567,567,Surya Nilaya,0,1710, 205 ,Three-Bedroom House,"Entire holiday home • 3 bedrooms • 1 living room • 3 bathrooms • 1 kitchen • 232m²4 beds (2 singles, 1 double, 1 large double)",10.0,Exceptional ,1,No Rooms left,
+568,568,568,OYO 85096 Sammilana Comforts,2432,1216, 176 ,Classic Triple Room,1 large double bed,2.2,Plesant ,5,No Rooms left,FREE cancellation • No prepayment needed
+569,569,569,Airport Residency,0,3000, 360 ,Budget Double Room,5 double beds,5.3,Plesant ,22,No Rooms left,
+570,570,570,Hotel City Meridian,0,1080, 130 ,Queen Room,1 double bed,0.0,No Review,0,No Rooms left,
+571,571,571,Modern Hotel,0,1320, 158 ,Deluxe Double Room,1 large double bed,7.1,Good ,10,Only 4 rooms left ,FREE cancellation • No prepayment needed
+572,572,572,TGI Felicity,3500,2625, 315 ,Superior Double or Twin Room,1 double bed,0.0,No Review,0,No Rooms left,
+573,573,573,"Keys Select by Lemon Tree Hotels, Hosur Road, Bengaluru",0,11483, 2067 ,Keys Double Room,1 double bed,6.9,Plesant ,116,No Rooms left,
+574,574,574,OYO Flagship 46682 New Andra House,1008,504, 30 ,Small Double Room,1 large double bed,4.0,Plesant ,2,Only 3 rooms left ,Free cancellation
+575,575,575,Vanusa Residency,0,2800, 336 ,Deluxe Double or Twin Room,1 single bed,7.9,Good ,45,Only 3 rooms left ,
+576,576,576,My home paying guest,0,1400, 268 ,Small Double Room,"3 beds (1 single, 2 doubles)",8.8,Fabulous ,6,Only 3 rooms left ,
+577,577,577,krishna grand inn,0,1200, 144 ,Deluxe Double Room,2 single beds,3.0,Plesant ,6,No Rooms left,
+578,578,578,The City Living,0,2500, 300 ,Deluxe King Room, 1 double or 2 singles,6.6,Plesant ,32,No Rooms left,Free cancellation
+579,579,579,Metro Stays,0,1150, 138 ,Deluxe Triple Room,1 double bed,7.5,Good ,4,Only 5 rooms left ,
+580,580,580,"Royal Orchid Central, Bangalore",7041,6689, 803 ,Standard Room with 15% Discount on Food & Beverages,1 double bed,6.6,Plesant ,430,No Rooms left,FREE cancellation • No prepayment needed
+581,581,581,"Keys Select by Lemon Tree Hotels, Whitefield, Bengaluru",0,8612, 1550 ,Standard  Room,1 large double bed,6.3,Plesant ,77,No Rooms left,
+582,582,582,LikeMyHome Stay - 4 Bedroom Apartment,0,5227, 627 ,Apartment,"Entire apartment • 4 bedrooms • 1 living room • 4 bathrooms • 1 kitchen • 223m²4 beds (2 doubles, 2 large doubles)",8.3,Very good ,4,No Rooms left,
+583,583,583,Hotel Supreme Suites,0,2250, 270 ,Budget Double Room,1 double bed,7.7,Good ,4,Only 6 rooms left ,FREE cancellation • No prepayment needed
+584,584,584,Vennela Hotel Apartments,0,2600, 312 ,Deluxe Double Room,1 single bed,9.6,Exceptional ,5,Only 1 room left ,FREE cancellation • No prepayment needed
+585,585,585,Sai Shreyas Residency,0,1170, 140 ,Deluxe Double Room,Multiple bed types,8.3,Very good ,4,Only 7 rooms left ,
+586,586,586,"The Den, Bengaluru",0,11000, 1980 ,The Den Room, 1 double or 2 singles,8.9,Fabulous ,186,Only 7 rooms left ,Free cancellation
+587,587,587,The Hub Heaven Suites,0,3200, 384 ,One-Bedroom Apartment,"Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 20m²2 beds (1 double, 1 sofa bed)",0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+588,588,588,Istay Hotels Rajajinagar,0,5958, 715 ,Mango Standard Room,1 large double bed,6.2,Plesant ,12,No Rooms left,FREE cancellation • No prepayment needed
+589,589,589,Surya Nilaya,0,1710, 205 ,Three-Bedroom House,"Entire holiday home • 3 bedrooms • 1 living room • 3 bathrooms • 1 kitchen • 232m²4 beds (2 singles, 1 double, 1 large double)",10.0,Exceptional ,1,No Rooms left,
+590,590,590,Hotel RK Gardenia,0,2940, 353 ,Deluxe Room,1 double bed,7.3,Good ,10,Only 7 rooms left ,FREE cancellation • No prepayment needed
+591,591,591,ICON Express by BHAGINI Hoodi,0,3779, 453 ,Standard Double or Twin Room, 1 double or 2 singles,7.7,Good ,39,No Rooms left,
+592,592,592,Hotel Plaza Heights,0,2050, 246 ,Standard Double Room,1 extra-large double bed,5.8,Plesant ,44,Only 4 rooms left ,Free cancellation
+593,593,593,SRI SHANKAR RESIDENCY,0,850,Includes ,Double Room with Private Bathroom,1 large double bed,7.0,Good ,39,Only 2 rooms left ,
+594,594,594,SPOT ON 79742 Sri Sai Grand In 2,1332,666, 30 ,Triple Room with Bathroom,1 large double bed,1.0,Plesant ,2,Only 7 rooms left ,FREE cancellation • No prepayment needed
+595,595,595,Square Stay,0,1259, 151 ,Double Room with Private Bathroom,1 double bed,0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+596,596,596,The Lounge Business Hotel,0,1279, 154 ,Standard Double Room,1 double bed,7.7,Good ,47,No Rooms left,
+597,597,597,Treebo Trip Galaxy Suites Hebbal,3690,1845, 221 ,Standard Double Room,1 large double bed,7.4,Good ,27,No Rooms left,Free cancellation
+598,598,598,Oasis Executive Suites,0,3500, 420 ,Deluxe Double or Twin Room,1 double bed,8.6,Fabulous ,56,Only 2 rooms left ,
+599,599,599,VASTHAV Inn,0,1458, 175 ,Deluxe Double Room- Non AC,1 single bed,8.3,Very good ,6,Only 1 room left ,
+600,600,600,Mandara Comforts,0,900,Includes ,Standard King Room,1 single bed,10.0,Exceptional ,1,No Rooms left,
+601,601,601,Shoba Inn-Kammanahalli,1936,1742, 209 ,Standard Double or Twin Room with Fan, 1 double or 2 singles,6.0,Plesant ,46,Only 3 rooms left ,FREE cancellation • No prepayment needed
+602,602,602,Sai Hotel Rooms,0,900,Includes ,Standard Room,1 double bed,0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+603,603,603,Midtown Suites Marathahalli Bangalore,3599,3239, 389 ,Deluxe Room,1 large double bed,0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+604,604,604,OYO Townhouse 093 Ramamurthy Nagar,2898,1449, 204 ,Classic Triple Room,1 large double bed,4.2,Plesant ,35,Only 1 room left ,Free cancellation
+605,605,605,SPOT ON 84984 Sanay Lodge,648,324, 15 ,Triple Room with Bathroom,1 extra-large double bed,2.8,Plesant ,4,No Rooms left,Free cancellation
+606,606,606,Golden Metro Hotel,0,4800, 576 ,Standard Double Room, 1 double or 2 singles,5.9,Plesant ,16,Only 5 rooms left ,
+607,607,607,OYO 15695 Varcity Comforts,1010,586, 45 ,Standard Double Room,1 large double bed,3.0,Plesant ,2,No Rooms left,Free cancellation
+608,608,608,Dhruv Palace by JT Royal,2199,1869, 224 ,Deluxe Room,1 large double bed,8.0,Very good ,3,Only 5 rooms left ,FREE cancellation • No prepayment needed
+609,609,609,Akshaya Aura,0,3899, 468 ,Premium Double or Twin Room, 1 double or 2 singles,6.2,Plesant ,15,No Rooms left,
+610,610,610,"its a lovely 3 bhk with 3 bathrooms & kitchen but only 1 room is available, so book only if you are an individual",5175,5123, 615 ,One-Bedroom Apartment,Entire apartment • 1 bedroom • 3 bathrooms1 double bed,0.0,No Review,0,Only 1 left ,FREE cancellation • No prepayment needed
+611,611,611,Nandu Hospitality - Aashiyana,0,1850, 222 ,One-Bedroom Apartment,"Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 65m²2 beds (1 sofa bed, 1 large double)",7.4,Good ,9,Only 2 left ,FREE cancellation • No prepayment needed
+612,612,612,OYO 15392 Sri Sai Guru Comforts,1230,800, 30 ,Standard Double Room,2 large double beds,6.8,Plesant ,18,No Rooms left,Free cancellation
+613,613,613,OYO 15358 Hotel Townhall,1598,799, 30 ,Classic Triple Room,1 large double bed,3.3,Plesant ,9,No Rooms left,Free cancellation
+614,614,614,Collection O 90316 Manyata Palace,1038,675, 45 ,Standard Double Room,1 large double bed,8.0,Very good ,1,No Rooms left,FREE cancellation • No prepayment needed
+615,615,615,Jagadish Hotel Begur,2075,1702, 204 ,Deluxe ,1 double bed,0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+616,616,616,OYO Flagship 29620 New Champion Residency,1461,950, 30 ,Classic Triple Room,2 large double beds,5.1,Plesant ,15,No Rooms left,Free cancellation
+617,617,617,Hotel Raj Residency,0,879,Includes ,Deluxe Double Room with Bath,1 double bed,5.9,Plesant ,11,Only 5 rooms left ,FREE cancellation • No prepayment needed
+618,618,618,SPOT ON 75643 Golden Guest House,841,547, 30 ,Triple Room with Bathroom,1 large double bed,5.3,Plesant ,3,No Rooms left,Free cancellation
+619,619,619,OYO 71538 Royal Residency,1600,800, 30 ,Classic Triple Room,1 large double bed,5.0,Plesant ,1,No Rooms left,Free cancellation
+620,620,620,Jagadish Brigade Hotel,3330,2731, 328 ,Superior,1 single bed,8.0,Very good ,2,No Rooms left,FREE cancellation • No prepayment needed
+621,621,621,Collection O 40090 Vittala Comfort,1568,784, 30 ,Classic Triple Room,1 large double bed,2.0,Plesant ,3,Only 3 rooms left ,Free cancellation
+622,622,622,Vintage inn by Pepe Hospitality,0,1980, 238 ,Standard Double Room,1 extra-large double bed,8.0,Very good ,1,No Rooms left,
+623,623,623,PRANAM COMFORTS LODGE,0,995,Includes ,Standard Double Room with Fan - Indian nationals only ,2 single beds,6.0,Plesant ,7,Only 3 rooms left ,FREE cancellation • No prepayment needed
+624,624,624,OYO 76346 N D S Comforts,959,624, 30 ,Classic Triple Room,1 large double bed,3.8,Plesant ,5,No Rooms left,Free cancellation
+625,625,625,Treebo Trend Savoury Sea Shell Residency Bannerghatta,3989,1995, 239 ,Standard Double Room,1 large double bed,6.5,Plesant ,40,Only 4 rooms left ,Free cancellation
+626,626,626,Pyramid Valley International,0,5000, 600 ,Deluxe Double Room,1 large double bed,0.0,No Review,0,No Rooms left,
+627,627,627,Capital O 87828 The Adthiya Grand Inn,0,982, 30 ,Classic Triple Room,1 large double bed,0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+628,628,628,OYO 76452 New Town Residency,1803,1154, 168 ,Classic Triple Room,1 extra-large double bed,3.0,Plesant ,7,No Rooms left,Free cancellation
+629,629,629,Treebo Trend Hotel Corporate Suites Mysore Road,6247,3123, 375 ,Superior Double Room,1 double bed,8.1,Very good ,15,Only 3 rooms left ,Free cancellation
+630,630,630,Siesta Primrose Bellandur,3200,2400, 288 ,Deluxe Room,1 double bed,1.0,Plesant ,3,No Rooms left,FREE cancellation • No prepayment needed
+631,631,631,Zipro Stay Classy Hotel Near HSR Layout,799,599,Includes ,One-Bedroom Apartment,Entire apartment • 1 bedroom • 1 bathroom • 19m²1 double bed,3.0,Plesant ,2,No Rooms left,Free cancellation
+632,632,632,OYO 12965 Archana INN,1026,656, 45 ,Deluxe Triple Room,1 large double bed,5.2,Plesant ,11,Only 2 rooms left ,Free cancellation
+633,633,633,Compact Studio,0,1600, 192 ,Budget Double Room,1 double bed,0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+634,634,634,"Cubbon Suites - 10 Minute walk to MG Road, MG Road Metro and Church Street",0,2800, 336 ,Deluxe Double Room,1 large double bed,7.6,Good ,9,Only 2 rooms left ,FREE cancellation • No prepayment needed
+635,635,635,Sandesh Kingston by Agira Hotels,0,2200, 264 ,Deluxe Room,1 extra-large double bed,6.1,Plesant ,8,No Rooms left,Free cancellation
+636,636,636,Hotel Urban Jade,0,2499, 300 ,Deluxe Twin Room,1 single bed,5.6,Plesant ,20,No Rooms left,Free cancellation
+637,637,637,OYO Flagship 80044 Royal Wood Deluxe,3264,1632, 226 ,Classic Triple Room,2 large double beds,6.0,Plesant ,6,Only 6 rooms left ,FREE cancellation • No prepayment needed
+638,638,638,The Fern Residency - Yeshwanthpur,0,5592, 671 ,Winter Green Room,"2 beds (1 double, 1 futon)",6.8,Plesant ,60,No Rooms left,
+639,639,639,SEASONS RESIDENCY,0,2600, 312 ,Deluxe Suite,Private suite • 1 bedroom • 1 living room • 1 bathroom2 single beds,0.0,No Review,0,Only 2 left ,FREE cancellation • No prepayment needed
+640,640,640,CITRIX PREMIER SERVICE APARTMENT,2950,2803, 336 ,Deluxe Double Room (1 adult + 2 children),"3 beds (1 double, 1 extra-large double, 1 large double)",0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+641,641,641,ANANYA COMFORTSS - KORAMANGALA,0,2200, 264 ,Budget Double or Twin Room,1 large double bed,5.8,Plesant ,16,No Rooms left,
+642,642,642,Sunshine Suites-Deluxe,0,1600, 192 ,Deluxe Double or Twin Room,2 single beds,7.4,Good ,9,Only 1 room left ,
+643,643,643,Vega Residency,0,999,Includes ,Budget Double Room,1 double bed,6.7,Plesant ,7,Only 5 rooms left ,FREE cancellation • No prepayment needed
+644,644,644,FabHotel Spiro Grand,5208,2812, 337 ,Deluxe Room,1 double bed,6.9,Plesant ,12,Only 7 rooms left ,Free cancellation
+645,645,645,La Sara Hometel Formerly Known as Nandhana Hometel,0,3690, 443 ,Standard Double or Twin Room,"3 beds (2 singles, 1 double)",6.8,Plesant ,24,Only 7 rooms left ,
+646,646,646,Hotel Kings Gateway,0,1600, 192 ,Deluxe Room (2 Adults + 1 Child),1 double bed,8.5,Very good ,2,Only 3 rooms left ,FREE cancellation • No prepayment needed
+647,647,647,MG ROAD ONE,2925,2048, 246 ,Deluxe Double or Twin Room,1 double bed,7.0,Good ,1,No Rooms left,Free cancellation
+648,648,648,Treebo Trend Apple Tree Apartment & Suites,9110,4555, 547 ,[Sanitized] Standard Double Room,1 extra-large double bed,5.9,Plesant ,12,Only 1 room left ,Free cancellation
+649,649,649,FabHotel Krishnas Landmark,2709,1463, 176 ,Deluxe Room,1 double bed,6.9,Plesant ,7,Only 7 rooms left ,Free cancellation
+650,650,650,MG ROAD ONE,2925,2048, 246 ,Deluxe Double or Twin Room,1 double bed,7.0,Good ,1,No Rooms left,Free cancellation
+651,651,651,Treebo Trend Apple Tree Apartment & Suites,9110,4555, 547 ,[Sanitized] Standard Double Room,1 extra-large double bed,5.9,Plesant ,12,Only 1 room left ,Free cancellation
+652,652,652,The Paul Bangalore,0,18888, 3400 ,Studio Suite - One Bedroom Suite with Kitchen,Entire studio • 1 bathroom • 1 kitchen • 56m²1 large double bed,9.0,Superb ,79,Only 2 left ,
+653,653,653,"Pink Petals Service Apartment by WB Hotels, Bangalore ,India",9999,8999, 1620 ,Deluxe Room,1 double bed,3.7,Plesant ,3,Only 1 room left ,FREE cancellation • No prepayment needed
+654,654,654,DEEPSKYSUITES,0,5616, 674 ,Apartment,"Entire apartment • 4 bedrooms • 1 living room • 5 bathrooms • 1 kitchen • 446m²7 beds (4 doubles, 2 sofa beds, 1 large double)",0.0,No Review,0,Only 1 left ,FREE cancellation • No prepayment needed
+655,655,655,Brahmi Wellness Retreat & Spa,22500,19125, 3443 ,Three-Bedroom Bungalow,"Entire bungalow • 3 bedrooms • 1 living room • 3 bathrooms • 1 kitchen • 153m²6 beds (4 singles, 1 extra-large double, 1 sofa bed)",8.3,Very good ,3,No Rooms left,
+656,656,656,OYO 1161 Hotel Golden Residency,1900,1159, 169 ,Classic Triple Room,1 extra-large double bed,3.5,Plesant ,2,No Rooms left,Free cancellation
+657,657,657,Veekay Residency,0,999,税・手数料込,Deluxe Double Room,1 extra-large double bed,5.8,Plesant ,15,Only 5 rooms left ,FREE cancellation • No prepayment needed
+658,658,658,PANCHAMI COMFORTS,0,2300, 276 ,Deluxe Double Room,1 large double bed,7.5,Good ,2,Only 6 rooms left ,
+659,659,659,By the way - By TripO,0,5061, 607 ,Three-Bedroom House,"Entire holiday home • 3 bedrooms • 1 living room • 2 bathrooms4 beds (1 double, 1 sofa bed, 2 large doubles)",0.0,No Review,0,Only 1 left ,FREE cancellation • No prepayment needed
+660,660,660,Shoba Suites-Kammanahalli,2400,2160, 259 ,Standard One-Bedroom Apartment,"Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 33m²2 beds (1 large double, 1 futon)",6.2,Plesant ,29,Only 2 left ,FREE cancellation • No prepayment needed
+661,661,661,FabHotel Sri Udapi Park,0,2802, 366 ,Deluxe Room,1 double bed,4.7,Plesant ,20,No Rooms left,FREE cancellation • No prepayment needed
+662,662,662,Sairam Residency Boutique Hotel,0,1400, 168 ,Standard Non AC Room,Multiple bed types,7.4,Good ,9,Only 6 rooms left ,
+663,663,663,SPOT ON 79503 Sln Comforts,1108,554, 30 ,Triple Room with Bathroom,1 large double bed,0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+664,664,664,Apple Tree Apart Hotel,0,4899, 588 ,Superior Double or Twin Room,1 extra-large double bed,8.0,Very good ,3,Only 2 rooms left ,FREE cancellation • No prepayment needed
+665,665,665,Cranberry Hospitality Services,0,1500, 180 ,Budget Double Room,1 double bed,5.5,Plesant ,2,No Rooms left,Free cancellation
+666,666,666,SPOT ON 86574 Shruthi Home,0,1856, 253 ,Classic Triple Room,1 large double bed,1.8,Plesant ,4,No Rooms left,FREE cancellation • No prepayment needed
+667,667,667,Kingston Palace,0,2400, 288 ,Deluxe Family Room,Multiple bed types,7.2,Good ,4,Only 1 room left ,Free cancellation
+668,668,668,Sai Shreyas Residency,0,1170, 140 ,Deluxe Double Room,Multiple bed types,8.3,Very good ,4,Only 7 rooms left ,
+669,669,669,Octave Royal Embassy,0,2050, 246 ,Deluxe Double Room,1 large double bed,2.2,Plesant ,5,No Rooms left,FREE cancellation • No prepayment needed
+670,670,670,Farmer's Retreat- The Ginger,0,2500, 300 ,Double Room,"2 beds (1 large double, 1 futon)",10.0,Exceptional ,1,Only 1 room left ,FREE cancellation • No prepayment needed
+671,671,671,STAYMAKER Hotel Madhu,0,1999, 240 ,Budget Double Room,1 double bed,4.0,Plesant ,2,No Rooms left,
+672,672,672,Cozy 3BHK Flat,0,2340, 281 ,Three-Bedroom Apartment,Entire apartment • 3 bedrooms • 2 bathrooms • 1 kitchen • 139m²3 double beds,0.0,No Review,0,Only 1 left ,
+673,673,673,On rent! the entire apartment with all basic amanities,0,1800, 216 ,One-Bedroom Apartment,"Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 111m²2 beds (1 double, 1 sofa bed)",0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+674,674,674,Taura Comfort,0,2340,税・手数料込,Double Room,2 single beds,7.6,Good ,8,Only 2 rooms left ,
+675,675,675,"its a lovely 3 bhk with 3 bathrooms & kitchen but only 1 room is available, so book only if you are an individual",5175,5123, 615 ,One-Bedroom Apartment,Entire apartment • 1 bedroom • 3 bathrooms1 double bed,0.0,No Review,0,Only 1 left ,FREE cancellation • No prepayment needed
+676,676,676,Siesta Primrose Bellandur,3200,2400, 288 ,Deluxe Room,1 double bed,1.0,Plesant ,3,No Rooms left,FREE cancellation • No prepayment needed
+677,677,677,GL BLOSSOM SERVICE APARTMENTS,0,3367, 404 ,One-Bedroom Apartment,"Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 670m²2 beds (1 double, 1 sofa bed)",0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+678,678,678,"Pink Petals Service Apartment by WB Hotels, Bangalore ,India",9999,8999, 1620 ,Deluxe Room,1 double bed,3.7,Plesant ,3,Only 1 room left ,FREE cancellation • No prepayment needed
+679,679,679,Kaina villa,0,4800, 576 ,Double Room,1 double bed,0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+680,680,680,On rent! the entire apartment with all basic amanities,0,1800, 216 ,One-Bedroom Apartment,"Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 111m²2 beds (1 double, 1 sofa bed)",0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+681,681,681,DEEPSKYSUITES,0,5616, 674 ,Apartment,"Entire apartment • 4 bedrooms • 1 living room • 5 bathrooms • 1 kitchen • 446m²7 beds (4 doubles, 2 sofa beds, 1 large double)",0.0,No Review,0,Only 1 left ,FREE cancellation • No prepayment needed
+682,682,682,By the way - By TripO,0,5061, 607 ,Three-Bedroom House,"Entire holiday home • 3 bedrooms • 1 living room • 2 bathrooms4 beds (1 double, 1 sofa bed, 2 large doubles)",0.0,No Review,0,Only 1 left ,FREE cancellation • No prepayment needed
+683,683,683,Kin Koral,3000,2250, 270 ,Deluxe King Room,"6 beds (3 extra-large doubles, 3 large doubles)",0.0,No Review,0,Only 1 room left ,Free cancellation
+684,684,684,FabHotel Sri Udapi Park,0,2802, 366 ,Deluxe Room,1 double bed,4.7,Plesant ,20,No Rooms left,FREE cancellation • No prepayment needed
+685,685,685,Sampada Homestay,0,3600, 432 ,Two-Bedroom Apartment,"Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 93m²6 beds (4 sofa beds, 2 large doubles)",8.2,Very good ,22,Only 3 left ,
+686,686,686,SPOT ON 86574 Shruthi Home,0,1856, 253 ,Classic Triple Room,1 large double bed,1.8,Plesant ,4,No Rooms left,FREE cancellation • No prepayment needed
+687,687,687,The Paul Bangalore,0,18888, 3400 ,Studio Suite - One Bedroom Suite with Kitchen,Entire studio • 1 bathroom • 1 kitchen • 56m²1 large double bed,9.0,Superb ,79,Only 2 left ,
+688,688,688,Squar Stay,0,3779, 454 ,One-Bedroom Apartment,"Entire apartment • 1 bedroom • 4 bathrooms • 19m²6 beds (2 singles, 4 large doubles)",0.0,No Review,0,Only 1 left ,FREE cancellation • No prepayment needed
+689,689,689,Aihikah Farm stays,0,5400, 1248 ,Two-Bedroom House,"Entire holiday home • 2 bedrooms • 2 bathrooms • 1 kitchen • 1,000m²8 beds (4 singles, 1 double, 1 extra-large double, 2 large doubles)",0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+690,690,690,Sri Sai Lilly Enclave,0,10000, 1800 ,One-Bedroom Apartment,"Entire apartment • 1 bedroom • 1 bathroom • 1,000m²1 double bed",0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
+691,691,691,StayVista at Ananta,0,22770, 4099 ,Two-Bedroom Villa,Entire villa • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 232m²2 large double beds,10.0,Exceptional ,2,No Rooms left,
+692,692,692,White Sky Villa,0,45600, 8208 ,Four-Bedroom House,"Entire holiday home • 4 bedrooms • 2 living rooms • 4 bathrooms • 1 kitchen8 beds (4 sofa beds, 4 large doubles)",0.0,No Review,0,Only 1 left ,
+693,693,693,The Hood CoLiving Space & Hostel,0,1150,Includes ,Bed in 4-Bed Male Dormitory Room,Bed in dormitory • 120m²1 bunk bed,8.4,Very good ,118,No Rooms left,
+694,694,694,Hackerpacker Backpackers Hostel,0,900,Includes ,Bed in 6-Bed Mixed Dormitory Room,2 beds in dormitories2 bunk beds,7.5,Good ,80,No Rooms left,FREE cancellation • No prepayment needed
+695,695,695,Jayamahal Palace,0,6480, 778 ,Standard Double or Twin Room,Choice of beds: double or singles,6.8,Plesant ,49,No Rooms left,Free cancellation
+696,696,696,Woke HSR layout,0,3628, 435 ,Deluxe Double Room with Shower,1 large double bed,8.7,Fabulous ,247,No Rooms left,
+697,697,697,Abuzz Oxfordcaps Bannerghatta,0,1000,Includes ,Bunk Bed in Male Dormitory Room ,2 beds in dormitories2 bunk beds,5.7,Plesant ,3,No Rooms left,FREE cancellation • No prepayment needed
+698,698,698,HOTEL STAY INN,0,3998, 480 ,Budget Single Room,2 single beds,9.0,Superb ,2,No Rooms left,FREE cancellation • No prepayment needed
+699,699,699,Hibernest Domlur,0,1260,Includes ,Bed in 4-Bed Mixed Dormitory Room,2 beds in dormitories2 bunk beds,6.7,Plesant ,3,No Rooms left,
+700,700,700,Jayamahal Palace,0,6480, 778 ,Standard Double or Twin Room,Choice of beds: double or singles,6.8,Plesant ,49,No Rooms left,Free cancellation
+701,701,701,zions hotel,0,6000, 720 ,Deluxe Single Room with Balcony,2 single beds,0.0,No Review,0,No Rooms left,FREE cancellation • No prepayment needed
